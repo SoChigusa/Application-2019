@@ -1,0 +1,171 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[12pt,notitlepage]{book}
+% \pdfoutput=1
+
+\usepackage{cite}
+\usepackage{amsmath,amssymb}
+\usepackage{comment}
+\usepackage{multirow}
+\usepackage[utf8]{inputenc}
+\usepackage{bm}
+\usepackage{accents}
+\usepackage{fancyhdr}
+
+%%%%% Graphics %%%%%
+\usepackage{ifpdf}
+\ifpdf        
+  \usepackage{graphicx, hyperref, xcolor}     %   usepackage without driver option
+\else     % For (p)LaTeX + dvipdfmx
+  \usepackage[dvipdfmx]{graphicx, hyperref, xcolor}     %   usepackage with driver option
+ \fi
+\usepackage{subcaption}
+ 
+%%%%% Hyperref %%%%%
+\definecolor{orangered}{HTML}{FF4500}
+\definecolor{crimson}{HTML}{DC143C}
+\definecolor{rossoferrari}{HTML}{D9073D}
+\definecolor{steelblue}{HTML}{4682B4}
+\definecolor{mediumblue}{HTML}{0000CD}
+\definecolor{forestgreen}{HTML}{228B22}
+\hypersetup{% hyperref option list
+setpagesize=false,
+bookmarksnumbered=true,%
+bookmarksopen=true,%
+colorlinks=true,%
+linkcolor=orangered,
+urlcolor=steelblue,
+citecolor=steelblue,
+}
+
+%%%%% spacing %%%%%
+\renewcommand{\baselinestretch}{1.5}
+
+%%%%% Geometry %%%%%
+\usepackage[height=21.5cm,width=16.5cm,centering]{geometry}
+
+%%%%% New commands %%%%%
+\newcommand{\Slash}[1]{{\ooalign{\hfil/\hfil\crcr$#1$}}}
+\newcommand{\hyphen}{\,\mathchar`-\mathchar`-\,}
+
+\renewcommand{\thepage}{\arabic{page}}
+\setcounter{page}{1}
+%\renewcommand{\thefootnote}{\#\arabic{footnote}}
+\renewcommand{\thefootnote}{$\natural$\arabic{footnote}}
+\setcounter{footnote}{0}
+
+%%%%% header %%%%%
+\pagestyle{fancy}
+\rhead[Research statement $-$ So Chigusa]{}
+\renewcommand{\headrulewidth}{0pt} % vanishing hr
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%    remove the following commands when finalizing
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\def\rem#1{ {\bf\textcolor{red}{($\clubsuit$ #1 $\clubsuit$)}}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\allowdisplaybreaks[1]
+
+\title{\vspace*{-3cm}Research statement}
+\author{\textbf{So Chigusa}}
+\date{\vspace*{-4mm}\textit{Ph.D. candidate in Physics at University of Tokyo}}
+
+\begin{document}
+\maketitle
+
+My current research concentrates on the search for new particles with
+the electroweak (EW) interaction, so-called EWIMPs, with the
+$\mathrm{TeV}$-scale mass.  My main achievements are evaluating their
+effect on the EW vacuum stability and collider phenomenology.  I am
+planning to extend my calculation so that I can analyze broader range of
+models.
+
+\vspace*{-2mm}
+\subsection*{Achievements so far}
+
+There are several theoretical motivations to consider
+$\mathrm{TeV}$-scale EWIMPs.  They appear in various new physics models
+that explain the energy scale of the EW symmetry breaking.  In addition,
+they can naturally explain the relic abundance of the dark matter (DM).
+Well-motivated examples are Higgsino and Wino in the minimally
+supersymmetric standard model (MSSM), which are the superpartners of the
+standard model (SM) Higgs and W boson, respectively.  Since their
+existence significantly modifies the fate of the EW vacuum and the
+phenomenology at the high energy scale, considerable efforts have been
+devoted for these studies, but the results are still unsatisfactory.
+
+During the last few years, we have been developing the next-to-leading
+order calculation of the decay rate of the EW vacuum.  We apply a
+recently proposed calculation which is manifestly gauge invariant to the
+models that contain the SM-like Higgs as a unique scalar field.  We
+assume a purely quartic Higgs potential and provide the correct
+treatment of the flat direction of the Euclidean action related to the
+classical conformal invariance of the potential.  This treatment fills a
+gap of the existing calculation and enables us to precisely evaluate the
+decay rate with error estimations.  We analyze not only the SM but also
+several models with new particles that couple to Higgs and obtain severe
+constraints on the coupling and mass of new particles even for the mass
+region much heavier than the $\mathrm{TeV}$-scale.
+
+Recently, we have also worked on the new physics search and measurement
+using future hadron colliders.  Although EWIMPs possess charged
+components that interact with detector materials, these components may
+be too short-lived to detect, which is sometimes the case for Higgsino.
+In order to probe such short lifetime EWIMPs, we consider the vacuum
+polarization effect from the EWIMP loop and its effects on the lepton
+pair production process.  The energy dependence of the loop effect
+possesses a characteristic dip structure around the EWIMP pair
+production threshold.  We use this shape to distinguish the signal from
+the background and effects of systematic errors and obtain the best
+limit so far for the short lifetime Higgsino.  We also reveal that the
+signal shape can be used for measurement of the coupling and mass of
+discovered EWIMPs.
+
+% We have adopted several ways to suppress the systematic errors and
+% background events arising from the strong interaction between quarks.
+% One is to use the disappearing charged track signal, focusing on the
+% models with long-lived charged particles.  In this project, I
+% collaborate with several experimentalists and apply this method to the
+% supersymmetric extention of the SM with anomaly mediated supersymmdetry
+% breaking.  By combining the charged track timing information and the
+% transverse momentum conservation, we fully reconstruct the kinematics of
+% the new physics events and estimate the errors in mass measurement of
+% the new physics particles.
+
+% \subsection*{Ongoing projects}
+
+% Bounce from gradient flow??
+
+% \rem{Long version: citation, author names}
+
+\vspace*{-2mm}
+\subsection*{Future plans}
+
+In the near future I will extend our calculation of the vacuum decay
+rate to the models with several scalar fields involved in the bounce
+configuration.  This allows us to evaluate the vacuum decay rate in
+various complicated models such as the MSSM, and to constrain the
+parameter space even when the relevant scalar particles are beyond the
+experimental reach.  For the generic models with several mass scales,
+the multi-scale nature of the bounce makes the numerical calculation
+difficult.  Therefore, another possible future direction is to develop
+an algorithm to adjust the lattice spacing in order for the fast and
+accurate computation.
+
+Regarding the collider phenomenology, I will apply our method to the
+pair production process of the gauge bosons.  This gives us severer
+bounds on the Higgsino that may reach the mass that naturally explain
+the DM relic abundance.  Another possibility is to study loop topologies
+different from the vacuum polarization.  Through the classification of
+the signal shape for each loop topology, it will become easy to find new
+particles to which our detection method can be applied.  Finally, the
+future planned lepton colliders such as ILC and CLIC also bring us some
+exciting possibilities.  Since they provide more precise measurements in
+lower energy scale compared with hadron colliders, it will be efficient
+to analyze the new particles effect using the effective field theory
+approach.  I will provide some model independent constraints on EWIMPs
+through the precise measurement at lepton colliders.
+
+\end{document}
+
