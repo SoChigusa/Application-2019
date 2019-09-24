@@ -22,7 +22,7 @@ Please see [here](https://academicjobsonline.org/ajo/fellowship/14106).
 ### ASAP? ###
 
 Queen's University postdoc position without deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/14405)
+Please see [here](https://academicjobsonline.org/ajo/jobs/14405).
 
 ### 11/1 ###
 
@@ -33,12 +33,18 @@ Please see [here](http://perimeterinstitute.ca/node/132482?utm_campaign=ACAD%20-
 
 UC Santa Barbara postdoc position deadline.
 Research in quantum gravity is more favored.
-Please see [here](https://academicjobsonline.org/ajo/jobs/14525)
+Please see [here](https://academicjobsonline.org/ajo/jobs/14525).
 
 ### 11/15 ###
 
 TRIUMF postdoc position deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/14521)
+Please see [here](https://academicjobsonline.org/ajo/jobs/14521).
+
+### 11/30
+
+Europe high-energy group postdoc position deadline.
+Application starts from 10/1.
+Please see [here](https://itf.fys.kuleuven.be/postdoc-application/).
 
 ### 12/1 ###
 
