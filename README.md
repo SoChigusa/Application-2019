@@ -40,7 +40,7 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/14525).
 TRIUMF postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14521).
 
-### 11/30
+### 12/1
 
 Europe high-energy group postdoc position deadline.
 Application starts from 10/1.
