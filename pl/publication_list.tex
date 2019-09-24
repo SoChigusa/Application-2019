@@ -1,0 +1,137 @@
+\documentclass[12pt]{article}
+\usepackage{epsf}
+\usepackage{amsmath,amssymb}
+\usepackage{bm}
+
+\usepackage[dvipdfmx]{graphicx}
+
+\usepackage{comment}
+\usepackage{multirow}
+\usepackage{braket}
+
+\usepackage[dvipdfmx]{color,hyperref}
+\usepackage{tgtermes}
+\usepackage{fancyhdr}
+
+\setlength{\textwidth}{16.5cm}
+\setlength{\textheight}{21.5cm}
+\setlength{\oddsidemargin}{0cm}
+\setlength{\evensidemargin}{0cm}
+\setlength{\topmargin}{0cm}
+\setlength{\footskip}{0cm}
+
+\renewcommand{\arraystretch}{1.2}
+\renewcommand{\baselinestretch}{1.1}
+
+\renewcommand{\topfraction}{1.0}
+\renewcommand{\bottomfraction}{1.0}
+
+%%% reference setting %%%
+\renewcommand{\refname}{Published papers}
+\makeatletter
+\renewenvironment{thebibliography}[1]
+     {\subsection*{\refname}%
+      \@mkboth{\MakeUppercase\refname}{\MakeUppercase\refname}%
+      \list{\@biblabel{\@arabic\c@enumiv}}%
+           {\settowidth\labelwidth{\@biblabel{#1}}%
+            \leftmargin\labelwidth
+            \advance\leftmargin\labelsep
+            \@openbib@code
+            \usecounter{enumiv}%
+            \let\p@enumiv\@empty
+            \renewcommand\theenumiv{\@arabic\c@enumiv}}%
+      \sloppy
+      \clubpenalty4000
+      \@clubpenalty \clubpenalty
+      \widowpenalty4000%
+      \sfcode`\.\@m}
+     {\def\@noitemerr
+       {\@latex@warning{Empty `thebibliography' environment}}%
+      \endlist}
+\makeatother
+
+\allowdisplaybreaks[1]
+
+%%%%% header %%%%%
+\pagestyle{fancy}
+\lhead[]{}
+\rhead[Publication List - So Chigusa]{Publication List - So Chigusa}
+\renewcommand{\headrulewidth}{0pt} % vanishing hr
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%    remove the following commands when finalizing
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\def\rem#1{ {\bf\textcolor{red}{($\clubsuit$ #1 $\clubsuit$)}}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%% title %%%%%
+\title{\vspace*{-3cm}Complete list of publications}
+\author{\textbf{So Chigusa}}
+\date{}
+
+%%% document %%%
+\begin{document}
+\maketitle
+
+\input{../publication.dat}
+
+\subsection*{Invited Seminar Presentations}
+
+\begin{enumerate}
+  \item ``Indirect Studies of Electroweakly Interacting Particles at 100 TeV Hadron Colliders'', Osaka University, July 2019.
+  \item ``Indirect Studies of Electroweakly Interacting Particles at 100 TeV Hadron Colliders'', University of Florida, May 2019.
+  \item ``Indirect Studies of Electroweakly Interacting Particles at 100 TeV Hadron Colliders'', Florida State University, May 2019.
+  \item ``Indirect Studies of Electroweakly Interacting Particles at 100 TeV Hadron Colliders'', KEK, April 2019.
+  \item ``Solutions to Domain Wall Problem in Models with Discrete Flavor Symmetry'', Hokkaido University, January 2019.
+  \item ``Probing Electroweakly Interacting Massive Particles with Drell-Yan Process at 100 TeV Hadron Colliders'', Nagoya University, October 2018.
+\end{enumerate}
+
+\subsection*{Presentations at International Conferences}
+
+\subsubsection*{(Oral)}
+
+\begin{enumerate}
+ % Talks below
+ \item ``Indirect Studies of Electroweakly Interacting Particles at 100 TeV Hadron Colliders'', Summer Institute 2019, Gangneung, Korea, August 2019.
+ \item ``Flowing to the Bounce'', New Higgs Working Group 26, Osaka, August 2019.
+ \item ``Indirect Studies of Electroweakly Interacting Particles at 100 TeV Hadron Colliders'', SUSY 2019, Texas, May 2019.
+ \item ``Indirect Studies of Electroweakly Interacting Particles at 100 TeV Hadron Colliders'', Pheno 2019, Pittsburgh, May 2019.
+ \item ``Flavon Stabilization in Models with Discrete Flavor Symmetry'', KEK-PH 2018 winter, Tsukuba, December 2018.
+ \item ``Decay Rate of the Electroweak Vacuum in the Standard Model and Beyond'', Planck 2018, Bonn, May 2018.
+ \item ``Bottom-Tau Unification in Supersymmetric Models'', New Physics Forum, IPMU, February 2017.
+ \item ``Bottom-Tau unification in Supersymmetric Model with Anomaly-Mediation'', SUSY 2016, Melbourne, July 2016.
+ % Talks above
+\end{enumerate}
+
+\subsubsection*{(Poster)}
+
+\begin{enumerate}
+  \item ``Probing Electroweakly Interacting Massive Particles with Precision Measurements at 100 TeV Hadron Colliders'', HPNP2019, Osaka, February 2019.
+\end{enumerate}
+
+\subsection*{Presentations at Domestic Conferences}
+
+\subsubsection*{(Oral)}
+
+\begin{enumerate}
+  \item ``Flavon Stabilization without Domain Wall Problem in Discrete Flavor Symmetry Models'', Neutrino Oscillation and Flavor Physics, Nagoya, June 2019.
+  \item ``Zero Mode Problem in the Calculation of Decay Rate of the SM Electroweak vacuum'', JPS 2018, Shinshu, September 2018.
+  \item ``Bottom-Tau unification in Supersymmetric Model with Anomaly-Mediation'', JPS 2016, Miyazaki, September 2016.
+\end{enumerate}
+
+\subsubsection*{(Poster)}
+
+\begin{enumerate}
+  \item ``Indirect Search of WIMP Dark Matter at Future 100 TeV Collider'', PPP 2018, Kyoto, August 2018.
+  \item ``Bottom Tau Unification in Supersymmetric Models'', PPP 2017, Kyoto, August 2017.
+\end{enumerate}
+
+\subsection*{Poster Presentations at International Summer Schools}
+
+\begin{enumerate}
+  \item ``Decay Rate of the Electroweak Vacuum in the Standard Model and Beyond'', Cargese Summer School 2018, July 2018.
+  \item ``Bottom Tau Unification in Supersymmetric Models'', Les Houches Summer School 2017, July 2017.
+\end{enumerate}
+
+\end{document}
