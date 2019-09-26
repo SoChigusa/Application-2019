@@ -34,6 +34,11 @@ Please see [here](https://labs.inspirehep.net/jobs/1753703).
 IFT at Madrid postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1755166).
 
+### 10/15
+
+CERN postdoc position deadline.
+Please see [here](https://th-dep.web.cern.ch/jobs).
+
 ### 10/31
 
 Delhi University postdoc position deadline.
