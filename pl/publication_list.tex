@@ -1,17 +1,9 @@
-\documentclass[12pt]{article}
-\usepackage{epsf}
+\documentclass[12pt,notitlepage]{article}
 \usepackage{amsmath,amssymb}
 \usepackage{bm}
-
-\usepackage[dvipdfmx]{graphicx}
-
-\usepackage{comment}
-\usepackage{multirow}
-\usepackage{braket}
-
-\usepackage[dvipdfmx]{color,hyperref}
-\usepackage{tgtermes}
+\usepackage{tgheros} % Use Helvetica
 \usepackage{fancyhdr}
+\usepackage[dvipdfmx]{graphicx, hyperref, xcolor}
 
 \setlength{\textwidth}{16.5cm}
 \setlength{\textheight}{21.5cm}
@@ -30,7 +22,7 @@
 \renewcommand{\refname}{Published papers}
 \makeatletter
 \renewenvironment{thebibliography}[1]
-     {\subsection*{\refname}%
+     {\subsection*{\refname} % modified here from section to subsection
       \@mkboth{\MakeUppercase\refname}{\MakeUppercase\refname}%
       \list{\@biblabel{\@arabic\c@enumiv}}%
            {\settowidth\labelwidth{\@biblabel{#1}}%
@@ -68,13 +60,15 @@
 %%%%% title %%%%%
 \title{\vspace*{-3cm}Complete list of publications}
 \author{\textbf{So Chigusa}}
-\date{}
+\date{\vspace*{-4mm}\textit{Ph.D. candidate in Physics at University of Tokyo}}
 
 %%% document %%%
 \begin{document}
 \maketitle
 
-\input{../publication.dat}
+\nocite{*}
+\bibliographystyle{../JHEP}
+\bibliography{../pl}
 
 \subsection*{Invited Seminar Presentations}
 

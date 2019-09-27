@@ -1,24 +1,14 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\documentclass[12pt,notitlepage]{book}
-% \pdfoutput=1
-
+\documentclass[12pt,notitlepage]{article}
 \usepackage{cite}
 \usepackage{amsmath,amssymb}
 \usepackage{comment}
 \usepackage{multirow}
 \usepackage[utf8]{inputenc}
 \usepackage{bm}
-\usepackage{accents}
+\usepackage{tgheros} % Use Helvetica
 \usepackage{fancyhdr}
-
-%%%%% Graphics %%%%%
-\usepackage{ifpdf}
-\ifpdf
-  \usepackage{graphicx, hyperref, xcolor}     %   usepackage without driver option
-\else     % For (p)LaTeX + dvipdfmx
-  \usepackage[dvipdfmx]{graphicx, hyperref, xcolor}     %   usepackage with driver option
- \fi
-\usepackage{subcaption}
+\usepackage[dvipdfmx]{graphicx, hyperref, xcolor}
 
 %%%%% Hyperref %%%%%
 \definecolor{orangered}{HTML}{FF4500}
