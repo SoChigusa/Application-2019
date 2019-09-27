@@ -81,6 +81,11 @@ Princeton postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1742964)
 and [here](https://academicjobsonline.org/ajo/jobs/13784).
 
+### 11/29
+
+ICRR project researcher position deadline.
+Please see the second e-mail from Kawasaki-san on 9/27.
+
 ### 11/30
 
 Zhongshan University postdoc position deadline.
@@ -149,7 +154,7 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/14736).
 ### 12/6
 
 ICRR postdoc (and fellowship) position deadline.
-Please see the e-mail from Kawasaki-san on 9/27.
+Please see the first e-mail from Kawasaki-san on 9/27.
 
 ### 12/7
 
