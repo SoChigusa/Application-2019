@@ -146,6 +146,11 @@ and [here](https://academicjobsonline.org/ajo/jobs/14664).
 University of Genoa postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14736).
 
+### 12/6
+
+ICRR postdoc (and fellowship) position deadline.
+Please see the e-mail from Kawasaki-san on 9/27.
+
 ### 12/7
 
 Queen's University postdoc position deadline.
