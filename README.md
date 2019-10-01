@@ -13,9 +13,17 @@
 
 ## Schedule and notes ##
 
+### May-June
+
+JSPS PD application deadline.
+
 ### 9/6 ###
 
 MIT Fellowship nomination deadline.
+
+### 9/30
+
+JSPS PD application result.
 
 ### 10/4 ###
 
