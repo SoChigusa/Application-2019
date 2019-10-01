@@ -1,0 +1,54 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+refname	/Users/SoChigusa/apply/Application2019/pl/publication_list.tex	/^     {\\subsection*{\\refname} % modified here from section to subsection$/;"	subsubsection	line:25
+Achievements so far	/Users/SoChigusa/apply/Application2019/rs/research_statement_short.tex	/^\\vspace*{-2mm}$/;"	subsubsection	line:75
+Future plans	/Users/SoChigusa/apply/Application2019/rs/research_statement_short.tex	/^\\vspace*{-2mm}$/;"	subsubsection	line:115
+Achievements so far	/Users/SoChigusa/apply/Application2019/rs/research_statement.tex	/^\\vspace*{-2mm}$/;"	subsubsection	line:84
+Future plans	/Users/SoChigusa/apply/Application2019/rs/research_statement.tex	/^\\vspace*{-2mm}$/;"	subsubsection	line:141
+Application 2019	/Users/SoChigusa/apply/Application2019/README.md	/^# Application 2019 #$/;"	function	line:1
+Useful tags that are not listed	/Users/SoChigusa/apply/Application2019/README.md	/^## Useful tags that are not listed ##$/;"	function	line:3
+Memos	/Users/SoChigusa/apply/Application2019/README.md	/^## Memos$/;"	function	line:9
+Schedule and notes	/Users/SoChigusa/apply/Application2019/README.md	/^## Schedule and notes ##$/;"	function	line:14
+9/6	/Users/SoChigusa/apply/Application2019/README.md	/^### 9\/6 ###$/;"	function	line:16
+10/4	/Users/SoChigusa/apply/Application2019/README.md	/^### 10\/4 ###$/;"	function	line:20
+10/8	/Users/SoChigusa/apply/Application2019/README.md	/^### 10\/8$/;"	function	line:27
+10/8	/Users/SoChigusa/apply/Application2019/README.md	/^### 10\/8$/;"	function	line:32
+10/15	/Users/SoChigusa/apply/Application2019/README.md	/^### 10\/15$/;"	function	line:37
+10/31	/Users/SoChigusa/apply/Application2019/README.md	/^### 10\/31$/;"	function	line:42
+11/1	/Users/SoChigusa/apply/Application2019/README.md	/^### 11\/1 ###$/;"	function	line:47
+11/1	/Users/SoChigusa/apply/Application2019/README.md	/^### 11\/1 ###$/;"	function	line:52
+11/1	/Users/SoChigusa/apply/Application2019/README.md	/^### 11\/1$/;"	function	line:58
+11/12	/Users/SoChigusa/apply/Application2019/README.md	/^### 11\/12$/;"	function	line:63
+11/15	/Users/SoChigusa/apply/Application2019/README.md	/^### 11\/15 ###$/;"	function	line:68
+11/15	/Users/SoChigusa/apply/Application2019/README.md	/^### 11\/15$/;"	function	line:73
+11/15	/Users/SoChigusa/apply/Application2019/README.md	/^### 11\/15$/;"	function	line:78
+11/29	/Users/SoChigusa/apply/Application2019/README.md	/^### 11\/29$/;"	function	line:84
+11/30	/Users/SoChigusa/apply/Application2019/README.md	/^### 11\/30$/;"	function	line:89
+12/1	/Users/SoChigusa/apply/Application2019/README.md	/^### 12\/1$/;"	function	line:94
+12/1	/Users/SoChigusa/apply/Application2019/README.md	/^### 12\/1 ###$/;"	function	line:100
+12/1	/Users/SoChigusa/apply/Application2019/README.md	/^### 12\/1 ###$/;"	function	line:107
+12/1	/Users/SoChigusa/apply/Application2019/README.md	/^### 12\/1 ###$/;"	function	line:112
+12/1	/Users/SoChigusa/apply/Application2019/README.md	/^### 12\/1 ###$/;"	function	line:117
+12/1	/Users/SoChigusa/apply/Application2019/README.md	/^### 12\/1 ###$/;"	function	line:122
+12/1	/Users/SoChigusa/apply/Application2019/README.md	/^### 12\/1 ###$/;"	function	line:127
+12/1	/Users/SoChigusa/apply/Application2019/README.md	/^### 12\/1 ###$/;"	function	line:132
+12/1	/Users/SoChigusa/apply/Application2019/README.md	/^### 12\/1$/;"	function	line:137
+12/1	/Users/SoChigusa/apply/Application2019/README.md	/^### 12\/1$/;"	function	line:143
+12/1	/Users/SoChigusa/apply/Application2019/README.md	/^### 12\/1$/;"	function	line:149
+12/6	/Users/SoChigusa/apply/Application2019/README.md	/^### 12\/6$/;"	function	line:154
+12/7	/Users/SoChigusa/apply/Application2019/README.md	/^### 12\/7$/;"	function	line:159
+12/10	/Users/SoChigusa/apply/Application2019/README.md	/^### 12\/10 ###$/;"	function	line:165
+12/17	/Users/SoChigusa/apply/Application2019/README.md	/^### 12\/17 ###$/;"	function	line:172
+12/21	/Users/SoChigusa/apply/Application2019/README.md	/^### 12\/21$/;"	function	line:177
+12/31	/Users/SoChigusa/apply/Application2019/README.md	/^### 12\/31$/;"	function	line:182
+12/31	/Users/SoChigusa/apply/Application2019/README.md	/^### 12\/31$/;"	function	line:187
+12/31	/Users/SoChigusa/apply/Application2019/README.md	/^### 12\/31$/;"	function	line:192
+12/31	/Users/SoChigusa/apply/Application2019/README.md	/^### 12\/31$/;"	function	line:197
+12/31	/Users/SoChigusa/apply/Application2019/README.md	/^### 12\/31$/;"	function	line:202
+1/1	/Users/SoChigusa/apply/Application2019/README.md	/^### 1\/1$/;"	function	line:207
+1/10	/Users/SoChigusa/apply/Application2019/README.md	/^### 1\/10$/;"	function	line:212
+refname	/Users/SoChigusa/apply/Application2019/cv/cv.tex	/^     {\\subsection*{\\refname} % modified here from section to subsection$/;"	subsubsection	line:25
