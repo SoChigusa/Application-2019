@@ -8,6 +8,7 @@
 
 ## Memos
 
+* Jobs listed in AJO are checked (2019/10/5)
 * Jobs listed in JREC-IN are checked (2019/9/24).
 * Jobs listed in [inspire](https://labs.inspirehep.net/jobs?field_of_interest=hep-ph&rank=POSTDOC&page=1) are checked (2019/9/25).
 
@@ -68,6 +69,16 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/14525).
 Berkeley Lab science application program deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1702219).
 
+### 11/1
+
+Yale University postdoc fellowship deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/14817).
+
+### 11/8
+
+Enrico Fermi Institute fellowship deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/14844).
+
 ### 11/12
 
 INFN at Rome postdoc position deadline.
@@ -75,7 +86,7 @@ Please see [here](https://labs.inspirehep.net/jobs/1753947).
 
 ### 11/15 ###
 
-TRIUMF postdoc position deadline.
+TRIUMF in Canada postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14521).
 
 ### 11/15
@@ -89,6 +100,16 @@ Princeton postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1742964)
 and [here](https://academicjobsonline.org/ajo/jobs/13784).
 
+### 11/15
+
+SLAC postdoctoral fellowship deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/14743).
+
+### 11/15
+
+INFN postdoctoral fellowship deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/14749).
+
 ### 11/29
 
 ICRR project researcher position deadline.
@@ -98,6 +119,11 @@ Please see the second e-mail from Kawasaki-san on 9/27.
 
 Zhongshan University postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1735210).
+
+### 11/30
+
+University of Notre Dome postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/14568).
 
 ### 12/1
 
@@ -111,6 +137,11 @@ IPMU position by Kakenhi “Fusion of analytical and numerical methods
 for the quantum world of elementary particles and the Universe.”
 deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14423).
+
+### 12/1
+
+IPMU postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/14487).
 
 ### 12/1 ###
 
@@ -159,6 +190,76 @@ and [here](https://academicjobsonline.org/ajo/jobs/14664).
 University of Genoa postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14736).
 
+### 12/1
+
+McGill University postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/14969).
+
+### 12/1
+
+University of Maryland postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/14890).
+
+### 12/1
+
+University of Michigan postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/14876).
+
+### 12/1
+
+University of Bern postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/14805).
+
+### 12/1
+
+Technion postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/14809).
+
+### 12/1
+
+Hebrew University in Israel postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/14825).
+
+### 12/1
+
+University of Copenhagen postdoctoral fellowship deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/14826).
+
+### 12/1
+
+University of California postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/14836).
+
+### 12/1
+
+University of Genova postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/14736).
+
+### 12/1
+
+University of Maryland and Johns Hopkins University joint postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/14777).
+
+### 12/1
+
+University of Wisconsin postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/14658).
+
+### 12/1
+
+Johns Hopkins University postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/14672).
+
+### 12/1
+
+National Taiwan University postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/14689).
+
+### 12/2
+
+The University of Texas postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/14686).
+
 ### 12/6
 
 ICRR postdoc (and fellowship) position deadline.
@@ -170,12 +271,37 @@ Queen's University postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1752213)
 and [here](https://academicjobsonline.org/ajo/jobs/14405).
 
+### 12/9
+
+Pennsylvania State University postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/14810).
+
 ### 12/10 ###
 
 KEK position by Kakenhi “Fusion of analytical and numerical methods
 for the quantum world of elementary particles and the Universe.”
 deadline.
 Please see [here](https://academicjobsonline.org/ajo/edelivery/3761).
+
+### 12/10
+
+Tel Aviv University postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/14751).
+
+### 12/15
+
+University of Munster postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/14891).
+
+### 12/15
+
+IFIC in Spain postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/14737).
+
+### 12/15
+
+Brown University postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/14762).
 
 ### 12/17 ###
 
