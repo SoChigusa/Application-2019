@@ -45,7 +45,7 @@ Please see [here](https://labs.inspirehep.net/jobs/1755166).
 ### 10/15
 
 CERN postdoc position deadline.
-Please see [here](https://th-dep.web.cern.ch/jobs).
+Please see [here](https://jobs.smartrecruiters.com/CERN/743999694000571-non-member-state-postdoc-fellowship-programme-theoretical-physics-?trid=3320305b-0f5f-4245-a3a4-e2e46bc46590).
 
 ### 10/31
 
@@ -220,3 +220,8 @@ Please see [here](https://labs.inspirehep.net/jobs/1736987).
 ### 1/10
 Wuhan University postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1754465).
+
+### 3/2
+
+CERN Senior Research Fellowship (with a limited number positions for non-member states) deadline.
+Please see [here](https://jobs.smartrecruiters.com/CERN/743999695853937-senior-research-fellowship-programme-theoretical-experimental-physics?trid=3320305b-0f5f-4245-a3a4-e2e46bc46590).
