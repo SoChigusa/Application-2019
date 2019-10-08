@@ -33,15 +33,21 @@ ato most two-pages, single-sided, using an 11 or 12 point font size
 and 1.5 or double spacing.
 Please see [here](https://academicjobsonline.org/ajo/fellowship/14106).
 
-### 10/8
-
-IFAE at Barcelona postdoc position deadline.
-Please see [here](https://labs.inspirehep.net/jobs/1753703).
+**Apllied**
 
 ### 10/8
 
-IFT at Madrid postdoc position deadline.
-Please see [here](https://labs.inspirehep.net/jobs/1755166).
+~~IFAE at Barcelona postdoc position deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1753703).~~
+
+**Too early to consider**
+
+### 10/8
+
+~~IFT at Madrid postdoc position deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1755166).~~
+
+**Too early to consider**
 
 ### 10/15
 
@@ -50,8 +56,10 @@ Please see [here](https://jobs.smartrecruiters.com/CERN/743999694000571-non-memb
 
 ### 10/31
 
-Delhi University postdoc position deadline.
-Please see [here](https://labs.inspirehep.net/jobs/1739042).
+~~Delhi University postdoc position deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1739042).~~
+
+**Gave up India**
 
 ### 11/1 ###
 
@@ -63,11 +71,6 @@ Please see [here](http://perimeterinstitute.ca/node/132482?utm_campaign=ACAD%20-
 UC Santa Barbara postdoc position deadline.
 Research in quantum gravity is more favored.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14525).
-
-### 11/1
-
-Berkeley Lab science application program deadline.
-Please see [here](https://labs.inspirehep.net/jobs/1702219).
 
 ### 11/1
 
