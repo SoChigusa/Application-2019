@@ -1,24 +1,14 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\documentclass[12pt,notitlepage]{book}
-% \pdfoutput=1
-
+\documentclass[12pt,notitlepage]{article}
 \usepackage{cite}
 \usepackage{amsmath,amssymb}
 \usepackage{comment}
 \usepackage{multirow}
 \usepackage[utf8]{inputenc}
 \usepackage{bm}
-\usepackage{accents}
+\usepackage{tgheros} % Use Helvetica
 \usepackage{fancyhdr}
-
-%%%%% Graphics %%%%%
-\usepackage{ifpdf}
-\ifpdf
-  \usepackage{graphicx, hyperref, xcolor}     %   usepackage without driver option
-\else     % For (p)LaTeX + dvipdfmx
-  \usepackage[dvipdfmx]{graphicx, hyperref, xcolor}     %   usepackage with driver option
- \fi
-\usepackage{subcaption}
+\usepackage[dvipdfmx]{graphicx, hyperref, xcolor}
 
 %%%%% Hyperref %%%%%
 \definecolor{orangered}{HTML}{FF4500}
@@ -57,6 +47,7 @@ citecolor=steelblue,
 \pagestyle{fancy}
 \rhead[Research statement $-$ So Chigusa]{Research statement $-$ So Chigusa}
 \renewcommand{\headrulewidth}{0pt} % vanishing hr
+\renewcommand{\footrulewidth}{0pt}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%    remove the following commands when finalizing
@@ -65,7 +56,7 @@ citecolor=steelblue,
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\allowdisplaybreaks[1]
+%\allowdisplaybreaks[1]
 
 \title{\vspace*{-3cm}Research statement}
 \author{\textbf{So Chigusa}}
@@ -74,96 +65,71 @@ citecolor=steelblue,
 \begin{document}
 \maketitle
 
-My research interests lie in the phenomenology of broad range of models beyond the standard model (SM) of the particle physics.
-In spite of the great success of the SM, there remain many questions that cannot be answered within the SM.
-These questions include, for example, the structure of the gauge symmetries, the existence of the dark matter, origin of the quark and lepton families, naturalness of the electroweak scale.
-To give an answer to one or several of these questions, numbers of models are proposed such as the grand unification, supersymmetry, family symmetry, and so on.
-These models often lead to some interesting phenomenology that can be used to distinguish them from the SM.
+My research interests lie in the phenomenology of a broad range of models beyond the standard model (SM) of particle physics.
+In spite of the great success of the SM, there remain many problems that cannot be solved within the SM.
+These problems include, for example, the existence of the dark matter (DM), naturalness of the electroweak (EW) scale, structure of the gauge symmetries, and origin of the quark and lepton families.
+To answer one or several of them, many models are proposed such as the minimally supersymmetric standard model (MSSM), grand unified theory (GUT), flavor symmetry, and so on.
+They often lead to some interesting phenomenology that can be used to distinguish them from the SM.
 I seek ways to test them using both a top-down approach where a model or its parameter space is constrained from theoretical consideration, and a bottom-up approach where the experimental search probes a new particle contained in a model.
 
 \vspace*{-2mm}
 \subsection*{Achievements so far}
 
-There are several theoretical motivations to consider
-$\mathrm{TeV}$-scale EWIMPs.  They appear in various new physics models
-that explain the energy scale of the EW symmetry breaking.  Besides,
-they can naturally explain the relic abundance of the dark matter (DM).
-Well-motivated examples of EWIMPs are Higgsino and Wino in the minimally
-supersymmetric standard model (MSSM), which are the superpartners of the
-standard model (SM) Higgs and W boson, respectively.  Since their
-existence significantly modifies the fate of the EW vacuum and the
-phenomenology at the high energy scale, considerable efforts have been
-devoted, but the results are still unsatisfactory.
+Since we now live in the EW vacuum, the requirement of the (meta-)stability of the vacuum can be used to test and constrain models in a top-down approach.
+This approach is powerful because it can probe new particles that are too heavy to be accessed using any ongoing or planned experiment.
+Also, this approach is applicable to many models that contain some additional fields and/or couplings to the SM Higgs boson.
+During the last few years, I have been developing the next-to-leading order calculation of the decay rate of the EW vacuum ([1,8,9] of my publication list).
+%I assumed that the SM Higgs is the unique scalar particle in the model and provided a correct treatment of the flat direction of the Euclidean action related to the approximate classical conformal invariance of the potential.
+My treatment filled a gap of existing calculations and enabled us to precisely evaluate the decay rate with error estimations.
+I analyzed not only the SM but also models with new particles that couple to Higgs and obtained severe constraints on their couplings and masses.
 
-During the last few years, we have been developing the next-to-leading
-order calculation of the decay rate of the EW vacuum.  We apply a
-recently proposed calculation which is manifestly gauge-invariant to the
-models that contain the SM-like Higgs as a unique scalar field.  We
-assume a purely quartic Higgs potential and provide the correct
-treatment of the flat direction of the Euclidean action related to the
-classical conformal invariance of the potential.  This treatment fills a
-gap of the existing calculation and enables us to precisely evaluate the
-decay rate with error estimations.  We analyze not only the SM but also
-several models with new particles that couple to Higgs and obtain severe
-constraints on the coupling and mass of new particles even for the mass
-region much heavier than the $\mathrm{TeV}$-scale.
+It is also important to use the collider experiments as an example of the bottom-up approach.
+In particular, recent hadron colliders provide a huge amount of data, under which a hint of the new physics may be buried.
+To fully use the data, it is necessary to develop a proper physics quantity or a wise way to extract the signal of a new particle.
+I have adopted several ways to tackle this difficult problem.
+So far, I focused on the search for massive particles with EW charges (EWIMPs) [3--5] that are good DM candidates appearing in many well-known models such as the MSSM.
+When the charged component of an EWIMP is long-lived, the disappearing track search is useful to reduce background events.
+I collaborated with several experimentalists and seeked a possibility of using track information to fully reconstruct the event kinematics and to determine the EWIMP mass.\rem{gluino?}
+On the other hand, for some EWIMPs such as the Higgsino-like state in the MSSM, the charged component is short-lived and the track information is not available.
+To handle this case, I developed a way to use the signal shape to reduce the systematic uncertainties and obtained the best limit so far for Higgsino.
+\rem{Property measurement}
+\rem{Future collider}
 
-Recently, we have also worked on the new physics search and measurement
-using future hadron colliders.  Although EWIMPs possess charged
-components that interact with detector materials, these components may
-be too short-lived to detect, which is sometimes the case for Higgsino.
-To probe such short lifetime EWIMPs, we consider the vacuum polarization
-effect from the EWIMP loop and its effects on the lepton pair production
-process.  The energy dependence of the loop effect possesses a
-characteristic dip structure around the EWIMP pair production threshold.
-We use this shape to distinguish the signal from the background and
-effects of systematic errors and obtain the best limit so far for the
-short lifetime Higgsino.  We also reveal that the signal shape can be
-used for measurement of the coupling and mass of discovered EWIMPs.
-
-% We have adopted several ways to suppress the systematic errors and
-% background events arising from the strong interaction between quarks.
-% One is to use the disappearing charged track signal, focusing on the
-% models with long-lived charged particles.  In this project, I
-% collaborate with several experimentalists and apply this method to the
-% supersymmetric extension of the SM with anomaly mediated supersymmetry
-% breaking.  By combining the charged track timing information and the
-% transverse momentum conservation, we fully reconstruct the kinematics of
-% the new physics events and estimate the errors in mass measurement of
-% the new physics particles.
-
-% \subsection*{Ongoing projects}
-
-% Bounce from gradient flow??
-
-% \rem{Long version: citation, author names}
+It is another interesting way of research to build a new physics model.
+All problems in the SM are hints of the theory of everything, which is our ultimate goal.
+By providing simple solutions to them, we can enrich our knowledge about what could be there beyond the SM.
+In several works, I focused on discrete flavor symmetry [2,6,7] and GUT models [10,11] that provide a unified description of SM fermion families and gauge symmetries, respectively.
+In models in which discrete symmetry is spontaneously broken, domain walls may be formed that will eventually dominate the energy of our universe.
+To avoid this problem, I constructed several models with discrete flavor symmetry in which cosmological dynamics does not lead to the formation of the stable domain wall and the most recent observation of the neutrino mixing angles are correctly predicted.
+In some popular GUT models, several Yukawa couplings in the SM are described by just one term in the Lagrangian and the unification of the Yukawa coupling constants is predicted.
+I focused on the model with supersymmetry and $SU(5)$ gauge symmetry and looked for the parameter space in which the unification is achieved.
+I also considered the effect of extra matter fields by calculating their contribution to the renormalization group equations.
 
 \vspace*{-2mm}
 \subsection*{Future plans}
 
-In the near future I will extend our calculation of the vacuum decay
-rate to the models with several scalar fields involved in the bounce
-configuration.  This allows us to evaluate the vacuum decay rate in
-various complicated models such as the MSSM, and to constrain the
-parameter space even when the relevant scalar particles are beyond the
-experimental reach.  For the generic models with several mass scales,
-the multi-scale nature of the bounce makes the numerical calculation
-difficult.  Therefore, another possible future direction is to develop
-an algorithm to adaptively adjust the lattice spacing for the fast and
-accurate computation.
+%In the near future, I will extend our calculation of the vacuum decay rate to models with several scalar fields involved in the bounce configuration.
+%This allows us to evaluate the vacuum decay rate in various complicated models such as the MSSM, and to constrain the parameter space even when the new particles are beyond the experimental reach.
+%For the generic models with several mass scales, the multi-scale nature of the bounce makes the numerical calculation difficult.
+%Therefore, another possible future direction is to develop an algorithm to adaptively adjust the lattice spacing for the fast and accurate computation.
+%Regarding the collider search, I will apply our method to the pair production process of gauge bosons.
+%This analysis results in the increase in statistics, which may allow us to reach the Higgsino mass preferred from the DM relic abundance.
+%Another possibility is to study loop topologies different from the vacuum polarization.
+%Through the classification of the signal shape for each topology, I will look for new particles to which our method can be applied.
+%Finally, the future planned lepton colliders such as ILC and CLIC also bring us some exciting possibilities.
+%Since they provide more precise measurements in lower energy scale compared with hadron colliders, it will be efficient to analyze the new particles effect using the effective field theory approach.
+%I will provide some model-independent constraints on EWIMPs through the precise measurement at lepton colliders.
 
-Regarding the collider phenomenology, I will apply our method to the
-pair production process of gauge bosons.  This gives us a severer bound
-on the Higgsino that may reach the mass prefered from the DM relic
-abundance.  Another possibility is to study loop topologies different
-from the vacuum polarization.  Through the classification of the signal
-shape for each loop topology, it will become possible to find new
-particles to which our detection method can be applied.  Finally, the
-future planned lepton colliders such as ILC and CLIC also bring us some
-exciting possibilities.  Since they provide more precise measurements in
-lower energy scale compared with hadron colliders, it will be efficient
-to analyze the new particles effect using the effective field theory
-approach.  I will provide some model-independent constraints on EWIMPs
-through the precise measurement at lepton colliders.
+Now it is an exciting time with many ongoing and future planned experiments that provide a huge number of hints of the new physics.
+The results of these experiments will guide future theoretical works.
+At the same time, a great deal of effort is devoted to developing new approaches to the problems of the SM and new techniques to extract the information from experimental results.
+As a young researcher at this time, I am eager to engage in fields of great progress and to keep seeking a trace of the new physics.
+
+Recently, we have made significant progress in developing techniques that enable us to systematically analyze the collider data.
+These include, for example, the effective field theory (EFT) and machine learning.
+One possible way is to consider how to use them to enlarge the reach of the collider experiments.
+I will also try to evaluate the event rate in DM direct detection experiments for a broad range of DM mass with the EFT technique and to suggest new experiments.
+Another possibility is to extend my works in a top-down approach.
+Calculation of the EW vacuum decay rate in complex models with several scalar fields involved in the bounce will be particularly important due to its broad applicability.
 
 \end{document}
