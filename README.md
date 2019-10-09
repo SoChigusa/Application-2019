@@ -65,53 +65,68 @@ Please see [here](https://labs.inspirehep.net/jobs/1739042).~~
 
 Perimeter postdoctoral program deadline.
 Please see [here](http://perimeterinstitute.ca/node/132482?utm_campaign=ACAD%20-%20Post%20Doctorate%20Fellows&utm_source=hs_email&utm_medium=email&utm_content=76890994&_hsmi=76890994&_hsenc=p2ANqtz-86pEacVhEZMTWx6CIsjXKjn_1jjJ4rph03AtC2IM7NzQIgr7fXzoKyLaUlP3k3xSwkJ6KdlAcsYzr99qqADtFPBmtEAMn2esvfOUY2vy9wdLwecdI).
+near Waterloo university and in Canada Biology but soso
 
 ### 11/1 ###
 
 UC Santa Barbara postdoc position deadline.
 Research in quantum gravity is more favored.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14525).
+Good for Haruna
 
 ### 11/1
 
 Yale University postdoc fellowship deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14817).
+Great for Haruna Haifang Lin etc
 
 ### 11/8
 
 Enrico Fermi Institute fellowship deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14844).
+University of Chicago Great for Haruna
+RNA biology RNA editing tRNA etc Terajima-san
 
 ### 11/12
 
 INFN at Rome postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1753947).
+Not suitable for Haruna
 
 ### 11/15 ###
 
 TRIUMF in Canada postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14521).
+Near the university of British Columbia
+soso
 
 ### 11/15
 
 INFN at Genoa postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1755150).
+Not suitable for Haruna
 
 ### 11/15
 
 Princeton postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1742964)
 and [here](https://academicjobsonline.org/ajo/jobs/13784).
+Great for Haruna
 
 ### 11/15
 
 SLAC postdoctoral fellowship deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14743).
+Near the Stanford University
+Good for Haruna
+
 
 ### 11/15
 
 INFN postdoctoral fellowship deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14749).
+Not suitable for Haruna
+
 
 ### 11/29
 
