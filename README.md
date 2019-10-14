@@ -8,7 +8,7 @@
 
 ## Memos
 
-* Jobs listed in AJO are checked (2019/10/5)
+* Jobs listed in AJO are checked (2019/10/14)
 * Jobs listed in JREC-IN are checked (2019/9/24).
 * Jobs listed in [inspire](https://labs.inspirehep.net/jobs?field_of_interest=hep-ph&rank=POSTDOC&page=1) are checked (2019/9/25).
 
@@ -65,68 +65,96 @@ Please see [here](https://labs.inspirehep.net/jobs/1739042).~~
 
 Perimeter postdoctoral program deadline.
 Please see [here](http://perimeterinstitute.ca/node/132482?utm_campaign=ACAD%20-%20Post%20Doctorate%20Fellows&utm_source=hs_email&utm_medium=email&utm_content=76890994&_hsmi=76890994&_hsenc=p2ANqtz-86pEacVhEZMTWx6CIsjXKjn_1jjJ4rph03AtC2IM7NzQIgr7fXzoKyLaUlP3k3xSwkJ6KdlAcsYzr99qqADtFPBmtEAMn2esvfOUY2vy9wdLwecdI).
-near Waterloo university and in Canada Biology but soso
+
+_near Waterloo university and in Canada Biology but soso_
 
 ### 11/1 ###
 
 UC Santa Barbara postdoc position deadline.
 Research in quantum gravity is more favored.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14525).
-Good for Haruna
+
+_Good for Haruna_
 
 ### 11/1
 
 Yale University postdoc fellowship deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14817).
-Great for Haruna Haifang Lin etc
+
+_Great for Haruna Haifang Lin etc_
 
 ### 11/8
 
 Enrico Fermi Institute fellowship deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14844).
-University of Chicago Great for Haruna
-RNA biology RNA editing tRNA etc Terajima-san
+
+_University of Chicago Great for Haruna.
+RNA biology RNA editing tRNA etc Terajima-san_
+
+### 11/8
+
+Ecole Normale Superieure postdoc fellowship deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15029).
 
 ### 11/12
 
 INFN at Rome postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1753947).
-Not suitable for Haruna
+
+_Not suitable for Haruna_
 
 ### 11/15 ###
 
 TRIUMF in Canada postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14521).
-Near the university of British Columbia
-soso
+
+_Near the university of British Columbia. soso_
 
 ### 11/15
 
 INFN at Genoa postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1755150).
-Not suitable for Haruna
+
+_Not suitable for Haruna_
 
 ### 11/15
 
 Princeton postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1742964)
 and [here](https://academicjobsonline.org/ajo/jobs/13784).
-Great for Haruna
+
+_Great for Haruna_
 
 ### 11/15
 
 SLAC postdoctoral fellowship deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14743).
-Near the Stanford University
-Good for Haruna
+
+_Near the Stanford University.
+Good for Haruna_
 
 
 ### 11/15
 
 INFN postdoctoral fellowship deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14749).
-Not suitable for Haruna
 
+_Not suitable for Haruna_
+
+### 11/15
+
+University of Copenhagen, Niels Bohr Institute postdoctoral fellowship deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15057).
+
+## 11/15
+
+University of California in Los Angeles postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15090).
+
+### 11/15
+
+NORDITA in Stockholm postdoc fellowship deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/14979).
 
 ### 11/29
 
@@ -142,6 +170,11 @@ Please see [here](https://labs.inspirehep.net/jobs/1735210).
 
 University of Notre Dome postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14568).
+
+### 11/30
+
+Max Planck in Heidelberg postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15092).
 
 ### 12/1
 
@@ -273,10 +306,55 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/14672).
 National Taiwan University postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14689).
 
+### 12/1
+
+Berkeley postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15049).
+
+### 12/1
+
+University of Zurich postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15055).
+
+### 12/1
+
+York University postdoc deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15085).
+
+### 12/1
+
+Rice University postdoc deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15095).
+
+### 12/1
+
+University of Washington postdoc deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/14996).
+
+### 12/1
+
+Technische Universitat Munchen postdoc deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15028).
+
+### 12/1
+
+Trinity College Dublin postdoc fellowship deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15031).
+
+### 12/2
+
+Los Alamos National Laboratory postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/14997).
+
 ### 12/2
 
 The University of Texas postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14686).
+
+### 12/2
+
+Durham University postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15003).
 
 ### 12/6
 
@@ -306,6 +384,16 @@ Please see [here](https://academicjobsonline.org/ajo/edelivery/3761).
 Tel Aviv University postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14751).
 
+### 12/10
+
+Tel Aviv University (2nd?) postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15093).
+
+### 12/10
+
+Hong Kong University of Science postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15097).
+
 ### 12/15
 
 University of Munster postdoc position deadline.
@@ -325,6 +413,16 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/14762).
 
 KEK position by Kakenhi "Neutrino" deadline.
 Please see [here](https://academicjobsonline.org/ajo/edelivery/3764).
+
+### 12/20
+
+Academia Sinica in Taipei postdoc deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15078).
+
+### 12/20
+
+Northwestern University postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15005).
 
 ### 12/21
 
@@ -360,6 +458,11 @@ Please see [here](https://labs.inspirehep.net/jobs/1703870).
 
 Nanjing Normal University international postdoc fellowship deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1736987).
+
+### 1/6
+
+Pennsylvania State University postdoc deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15019).
 
 ### 1/10
 Wuhan University postdoc position deadline.
