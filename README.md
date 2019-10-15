@@ -426,6 +426,11 @@ and [here](https://academicjobsonline.org/ajo/jobs/14405).
 Karlsruhe Institute of Technology postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1757863).
 
+### 12/8
+
+Brookhaven National Laboratory postdoc position deadline.
+Please see [here](https://jobs.bnl.gov/job/upton/postdoctoral-research-associate-high-energy-theory-group/3437/13650824).
+
 ### 12/9
 
 Pennsylvania State University postdoc position deadline.
