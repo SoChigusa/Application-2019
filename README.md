@@ -54,6 +54,8 @@ Please see [here](https://labs.inspirehep.net/jobs/1755166).~~
 CERN postdoc position deadline.
 Please see [here](https://jobs.smartrecruiters.com/CERN/743999694000571-non-member-state-postdoc-fellowship-programme-theoretical-physics-?trid=3320305b-0f5f-4245-a3a4-e2e46bc46590).
 
+**Applied: status can be checked [here](https://my.smartrecruiters.com/application-ext/f74d3e51-0ef5-40d2-a862-1b9d1942f59f).**
+
 ### 10/31
 
 ~~Delhi University postdoc position deadline.
