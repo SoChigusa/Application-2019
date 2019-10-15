@@ -9,8 +9,8 @@
 ## Memos
 
 * Jobs listed in AJO are checked (2019/10/14)
-* Jobs listed in JREC-IN are checked (2019/9/24).
-* Jobs listed in [inspire](https://labs.inspirehep.net/jobs?field_of_interest=hep-ph&rank=POSTDOC&page=1) are checked (2019/9/25).
+* Jobs listed in JREC-IN are checked (2019/10/15).
+* Jobs listed in [inspire](https://labs.inspirehep.net/jobs?field_of_interest=hep-ph&rank=POSTDOC&page=1) are checked (2019/10/15).
 
 ## Schedule and notes ##
 
@@ -81,14 +81,16 @@ _Good for Haruna_
 ### 11/1
 
 Yale University postdoc fellowship deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/14817).
+Please see [here](https://academicjobsonline.org/ajo/jobs/14817)
+and [here](https://labs.inspirehep.net/jobs/1755861).
 
 _Great for Haruna Haifang Lin etc_
 
 ### 11/8
 
 Enrico Fermi Institute fellowship deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/14844).
+Please see [here](https://academicjobsonline.org/ajo/jobs/14844)
+and [here](https://labs.inspirehep.net/jobs/1756592).
 
 _University of Chicago Great for Haruna.
 RNA biology RNA editing tRNA etc Terajima-san_
@@ -121,7 +123,7 @@ _Not suitable for Haruna_
 
 ### 11/15
 
-Princeton postdoc position deadline.
+IAS in Princeton postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1742964)
 and [here](https://academicjobsonline.org/ajo/jobs/13784).
 
@@ -134,7 +136,6 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/14743).
 
 _Near the Stanford University.
 Good for Haruna_
-
 
 ### 11/15
 
@@ -157,6 +158,11 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15090).
 
 NORDITA in Stockholm postdoc fellowship deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14979).
+
+### 11/15
+
+Univeristy of Wurzburg postdoc position deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1757148).
 
 ### 11/29
 
@@ -199,7 +205,8 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/14487).
 ### 12/1 ###
 
 Carleton University postdoc position deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/14636).
+Please see [here](https://academicjobsonline.org/ajo/jobs/14636)
+and [here](https://labs.inspirehep.net/jobs/1756185).
 
 ### 12/1 ###
 
@@ -246,7 +253,8 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/14736).
 ### 12/1
 
 McGill University postdoc position deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/14969).
+Please see [here](https://academicjobsonline.org/ajo/jobs/14969)
+and [here](https://labs.inspirehep.net/jobs/1757492).
 
 ### 12/1
 
@@ -261,7 +269,8 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/14876).
 ### 12/1
 
 University of Bern postdoc position deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/14805).
+Please see [here](https://academicjobsonline.org/ajo/jobs/14805)
+and [here](https://labs.inspirehep.net/jobs/1755848).
 
 ### 12/1
 
@@ -331,17 +340,40 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15095).
 ### 12/1
 
 University of Washington postdoc deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/14996).
-
-### 12/1
-
-Technische Universitat Munchen postdoc deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/15028).
+Please see [here](https://academicjobsonline.org/ajo/jobs/14996)
+and [here](https://labs.inspirehep.net/jobs/1756988).
 
 ### 12/1
 
 Trinity College Dublin postdoc fellowship deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15031).
+
+### 12/1
+
+Princeton University postdoc position deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1758200).
+
+### 12/1
+
+Stanford-SLAC postdoc position deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1758420)
+and [here](https://academicjobsonline.org/ajo/jobs/12215).
+
+### 12/1
+
+Munich postdoc position deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1758527)
+and [here](https://academicjobsonline.org/ajo?action=joblist&id=15028).
+
+### 12/1
+
+Nikhef postdoc position deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1758537).
+
+### 12/1
+
+Virginia Univeristy postdoc position deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1756686).
 
 ### 12/2
 
@@ -358,16 +390,41 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/14686).
 Durham University postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15003).
 
+### 12/2
+
+Max Planck Institute for Physics in Munich postdoc position deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1757486).
+
+### 12/2
+
+University of Colorado postdoc position deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1757212).
+
 ### 12/6
 
 ICRR postdoc (and fellowship) position deadline.
 Please see the first e-mail from Kawasaki-san on 9/27.
+
+### 12/6
+
+Annecy postdoc position deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1758714).
+
+### 12/6
+
+Chalmers University postdoc position deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1756850).
 
 ### 12/7
 
 Queen's University postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1752213)
 and [here](https://academicjobsonline.org/ajo/jobs/14405).
+
+### 12/8
+
+Karlsruhe Institute of Technology postdoc position deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1757863).
 
 ### 12/9
 
@@ -399,7 +456,8 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15097).
 ### 12/15
 
 University of Munster postdoc position deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/14891).
+Please see [here](https://academicjobsonline.org/ajo/jobs/14891)
+and [here](https://labs.inspirehep.net/jobs/1756933).
 
 ### 12/15
 
