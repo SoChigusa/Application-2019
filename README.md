@@ -68,6 +68,9 @@ Please see [here](https://labs.inspirehep.net/jobs/1739042).~~
 Perimeter postdoctoral program deadline.
 Please see [here](http://perimeterinstitute.ca/node/132482?utm_campaign=ACAD%20-%20Post%20Doctorate%20Fellows&utm_source=hs_email&utm_medium=email&utm_content=76890994&_hsmi=76890994&_hsenc=p2ANqtz-86pEacVhEZMTWx6CIsjXKjn_1jjJ4rph03AtC2IM7NzQIgr7fXzoKyLaUlP3k3xSwkJ6KdlAcsYzr99qqADtFPBmtEAMn2esvfOUY2vy9wdLwecdI).
 
+**NON-AJO**
+Emails will be sent to recommenders on the application.  Early application is recommended.
+
 _near Waterloo university and in Canada Biology but soso_
 
 ### 11/1 ###
@@ -102,10 +105,12 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15029).
 
 ### 11/12
 
-INFN at Rome postdoc position deadline.
-Please see [here](https://labs.inspirehep.net/jobs/1753947).
+~~INFN at Rome postdoc position deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1753947).~~
 
 _Not suitable for Haruna_
+
+**Gave up by cheap salary and bad Haruna**
 
 ### 11/15 ###
 
@@ -116,10 +121,12 @@ _Near the university of British Columbia. soso_
 
 ### 11/15
 
-INFN at Genoa postdoc position deadline.
-Please see [here](https://labs.inspirehep.net/jobs/1755150).
+~~INFN at Genoa postdoc position deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1755150).~~
 
 _Not suitable for Haruna_
+
+**Gave up by bad Haruna**
 
 ### 11/15
 
@@ -139,17 +146,21 @@ Good for Haruna_
 
 ### 11/15
 
-INFN postdoctoral fellowship deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/14749).
+~~INFN postdoctoral fellowship deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/14749).~~
 
 _Not suitable for Haruna_
+
+**Gave up by normal salary and bad Haruna**
 
 ### 11/15
 
 University of Copenhagen, Niels Bohr Institute postdoctoral fellowship deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15057).
 
-## 11/15
+**NON-AJO**
+
+### 11/15
 
 University of California in Los Angeles postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15090).
@@ -163,6 +174,8 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/14979).
 
 Univeristy of Wurzburg postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1757148).
+
+**NON-AJO, not so interesting?**
 
 ### 11/29
 
@@ -374,6 +387,13 @@ Please see [here](https://labs.inspirehep.net/jobs/1758537).
 
 Virginia Univeristy postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1756686).
+
+### 12/1
+
+University of Genoa postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/14736).
+
+_Not suitable for Haruna_
 
 ### 12/2
 
