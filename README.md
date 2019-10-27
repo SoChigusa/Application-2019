@@ -172,15 +172,19 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/14979).
 
 ### 11/15
 
-Univeristy of Wurzburg postdoc position deadline.
-Please see [here](https://labs.inspirehep.net/jobs/1757148).
+~~Univeristy of Wurzburg postdoc position deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1757148).~~
 
-**NON-AJO, not so interesting?**
+**NON-AJO, not so interesting**
 
 ### 11/15
 
 University of Vienna postdoc position deadline.
 Please see the e-mail from Sumino-san on 10/23.
+
+_Great for Haruna_
+
+**NON-AJO**
 
 ### 11/29
 
@@ -191,6 +195,8 @@ Please see the second e-mail from Kawasaki-san on 9/27.
 
 Zhongshan University postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1735210).
+
+*None fascinates So. NON-AJO*
 
 ### 11/30
 
@@ -518,7 +524,7 @@ Please see [here](https://jobs.bnl.gov/job/upton/postdoctoral-research-associate
 
 ### 12/8
 
-Oklahoma State Univeristy postdoc position deadline.
+Oklahoma State University postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15201).
 
 ### 12/8
