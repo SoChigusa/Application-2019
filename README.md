@@ -158,6 +158,8 @@ _Not suitable for Haruna_
 University of Copenhagen, Niels Bohr Institute postdoctoral fellowship deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15057).
 
+_Good for Haruna_
+
 **NON-AJO**
 
 ### 11/15
@@ -165,10 +167,14 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15057).
 University of California in Los Angeles postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15090).
 
+_Great for Haruna_
+
 ### 11/15
 
 NORDITA in Stockholm postdoc fellowship deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14979).
+
+_Good for Haruna_
 
 ### 11/15
 
@@ -188,13 +194,15 @@ _Great for Haruna_
 
 ### 11/29
 
-ICRR project researcher position deadline.
-Please see the second e-mail from Kawasaki-san on 9/27.
+~~ICRR project researcher position deadline.
+Please see the second e-mail from Kawasaki-san on 9/27.~~
+
+**Neglect Japanese positions**
 
 ### 11/30
 
-Zhongshan University postdoc position deadline.
-Please see [here](https://labs.inspirehep.net/jobs/1735210).
+~~Zhongshan University postdoc position deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1735210).~~
 
 *None fascinates So. NON-AJO*
 
@@ -203,15 +211,20 @@ Please see [here](https://labs.inspirehep.net/jobs/1735210).
 University of Notre Dome postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14568).
 
+_sososo for Haruna_
+
 ### 11/30
 
 Max Planck in Heidelberg postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15092).
+Great for Haruna
 
 ### 11/30
 
 Technical University of Munich postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15191).
+
+_sososo for Haruna_
 
 ### 12/1
 
@@ -236,6 +249,8 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/14487).
 Carleton University postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14636)
 and [here](https://labs.inspirehep.net/jobs/1756185).
+
+_soso for Haruna_
 
 ### 12/1 ###
 
