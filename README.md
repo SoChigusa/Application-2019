@@ -73,6 +73,8 @@ Emails will be sent to recommenders on the application.  Early application is re
 
 _near Waterloo university and in Canada Biology but soso_
 
+**Applied**
+
 ### 11/1 ###
 
 UC Santa Barbara postdoc position deadline.
@@ -80,6 +82,8 @@ Research in quantum gravity is more favored.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14525).
 
 _Good for Haruna_
+
+**Applied**
 
 ### 11/1
 
