@@ -1,0 +1,98 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[12pt,notitlepage]{article}
+\usepackage{cite}
+\usepackage{amsmath,amssymb}
+\usepackage{comment}
+\usepackage{multirow}
+\usepackage[utf8]{inputenc}
+\usepackage{bm}
+\usepackage{tgheros} % Use Helvetica
+\usepackage{fancyhdr}
+\usepackage[dvipdfmx]{graphicx, hyperref, xcolor}
+\usepackage{ifthen}
+
+%%%%% Hyperref %%%%%
+\definecolor{orangered}{HTML}{FF4500}
+\definecolor{crimson}{HTML}{DC143C}
+\definecolor{rossoferrari}{HTML}{D9073D}
+\definecolor{steelblue}{HTML}{4682B4}
+\definecolor{mediumblue}{HTML}{0000CD}
+\definecolor{forestgreen}{HTML}{228B22}
+\hypersetup{% hyperref option list
+setpagesize=false,
+bookmarksnumbered=true,%
+bookmarksopen=true,%
+colorlinks=true,%
+linkcolor=orangered,
+urlcolor=steelblue,
+citecolor=steelblue,
+}
+
+%%%%% spacing %%%%%
+\renewcommand{\baselinestretch}{1.5}
+
+%%%%% Geometry %%%%%
+\usepackage[height=22.5cm,width=16.5cm,centering]{geometry}
+
+%%%%% New commands %%%%%
+\newcommand{\Slash}[1]{{\ooalign{\hfil/\hfil\crcr$#1$}}}
+\newcommand{\hyphen}{\,\mathchar`-\mathchar`-\,}
+
+%%%%% Professor Name %%%%%
+\def\professorname{Soreike Posdoc}
+% \def\noprofessorname % activate this to use "To whom..."
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%    remove the following commands when finalizing
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\def\rem#1{ {\bf\textcolor{red}{($\clubsuit$ #1 $\clubsuit$)}}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%\allowdisplaybreaks[1]
+
+\title{\vspace*{-3cm}Cover Letter}
+\author{\textbf{So Chigusa}}
+\date{}
+
+\begin{document}
+\maketitle
+\thispagestyle{empty}
+
+\ifthenelse{\isundefined{\noprofessorname}}
+{Dear Prof. \professorname,}
+{To whom it may concern,}
+
+\vspace{5mm}
+I would like to inquire whether there is a postdoctoral position at your high energy theory group starting at Fall 2020.
+I am currently a graduate student at University of Tokyo and going to finish my Ph.D. in March 2020.
+
+I am an energetic researcher who enjoys working with people on a broad range of topics.
+So far, I have been working on the several aspects of the phenomenology of the standard model and beyond.
+Firstly, I studied the stability of the electroweak vacuum and gave a proper calculation framework of the next-to-leading order decay rate of the vacuum.
+Secondly, I proposed and/or analyzed several clever methods to search for the supersymmetric partners of gauge bosons using future hadron colliders and evaluated their ability to discover a new particle and to measure its properties.
+I also considered the cosmological and experimental constraints on models with flavor symmetry and grand unified theories.
+In the future, I want to keep seeking a trace of the new physics using the rich knowleadge of the phenomenology I have acuired in my Ph.D. course.
+
+So I wish to be a postdoctoral fellow at your group and continue my research.
+I have already asked recommendation letters to the following researchers which will be directly sent to you:
+\vspace{-2mm}
+\begin{itemize}
+  \setlength{\parskip}{1mm}
+  \setlength{\itemsep}{0cm}
+  \item Dr. Takeo Moroi (Department of Physics, University of Tokyo)
+  \item Dr. Koichi Hamaguchi (Department of Physics, University of Tokyo)
+  \item Dr. Kazunori Nakayama (Department of Physics, University of Tokyo)
+\end{itemize}
+\vspace{-2mm}
+Please find attatched my C.V., research statement, and list of publications.
+
+I am looking forward to hearing from you.
+
+\vspace{5mm}
+Sincerely yours,
+
+\vspace{5mm}
+So Chigusa
+
+\end{document}
