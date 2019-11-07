@@ -39,8 +39,9 @@ citecolor=steelblue,
 \newcommand{\hyphen}{\,\mathchar`-\mathchar`-\,}
 
 %%%%% Professor Name %%%%%
-\def\professorname{Walter Goldberger}
-% \def\noprofessorname % activate this to use "To whom..."
+% \def\professorname{Walter Goldberger}
+\def\noprofessorname{} % activate this to use "To whom..."
+\def\fellowship{} % activate this if fellowship
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%    remove the following commands when finalizing
@@ -64,11 +65,11 @@ citecolor=steelblue,
 {To whom it may concern,}
 
 \vspace{5mm}
-I would like to inquire whether there is a postdoctoral position at your high energy theory group starting in Fall 2020.
+I would like to inquire whether there is a \ifthenelse{\isundefined{\fellowship}}{postdoctoral}{postdoctoral research fellowship} position at your high energy theory group starting in Fall 2020.
 I am currently a graduate student at the University of Tokyo and going to finish my Ph.D. in March 2020.
 
 I am an energetic researcher who enjoys working with people on a broad range of topics.
-So far, I have been working on several aspects of the phenomenology of the standard model and beyond.
+So far, I have been working on several aspects of the phenomenology of the standard model of the particle physics and beyond.
 Firstly, I studied the stability of the electroweak vacuum and gave a proper calculation framework of the next-to-leading order decay rate of the vacuum.
 Secondly, I proposed and/or analyzed several methods to efficiently search for the supersymmetric partners of gauge bosons using future hadron colliders and evaluated their ability to discover a new particle and to measure its properties.
 I also considered the cosmological and experimental constraints on models with flavor symmetry and grand unified theories.

@@ -93,6 +93,8 @@ and [here](https://labs.inspirehep.net/jobs/1755861).
 
 _Great for Haruna Haifang Lin etc_
 
+**Applied**
+
 ### 11/8
 
 Enrico Fermi Institute fellowship deadline.
@@ -102,10 +104,14 @@ and [here](https://labs.inspirehep.net/jobs/1756592).
 _University of Chicago Great for Haruna.
 RNA biology RNA editing tRNA etc Terajima-san_
 
+**Applied**
+
 ### 11/8
 
-Ecole Normale Superieure postdoc fellowship deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/15029).
+~~Ecole Normale Superieure postdoc fellowship deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15029).~~
+
+**Not so interesting and gave up** 
 
 ### 11/12
 
