@@ -111,7 +111,16 @@ RNA biology RNA editing tRNA etc Terajima-san_
 ~~Ecole Normale Superieure postdoc fellowship deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15029).~~
 
-**Not so interesting and gave up** 
+**Not so interesting and gave up**  
+
+### 11/11
+
+University of Vienna postdoc position deadline.
+Please see the e-mail from Sumino-san on 10/23.
+
+_Great for Haruna_
+
+**Applied. Jet and QCD physics. NON-AJO**
 
 ### 11/12
 
@@ -165,12 +174,12 @@ _Not suitable for Haruna_
 
 ### 11/15
 
-University of Copenhagen, Niels Bohr Institute postdoctoral fellowship deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/15057).
+~~University of Copenhagen, Niels Bohr Institute postdoctoral fellowship deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15057).~~
 
 _Good for Haruna_
 
-**NON-AJO**
+**Gave up by NON-AJO, fields of research like SMEFT and gravity staff.**
 
 ### 11/15
 
@@ -193,15 +202,6 @@ Please see [here](https://labs.inspirehep.net/jobs/1757148).~~
 
 **NON-AJO, not so interesting**
 
-### 11/15
-
-University of Vienna postdoc position deadline.
-Please see the e-mail from Sumino-san on 10/23.
-
-_Great for Haruna_
-
-**NON-AJO**
-
 ### 11/24
 
 ICTP at Trieste postdoc position deadline.
@@ -214,12 +214,17 @@ Please see the second e-mail from Kawasaki-san on 9/27.~~
 
 **Neglect Japanese positions**
 
+### 11/29
+
+University of Oxford postdoc position deadline.
+Please see [here](http://www.maths.ox.ac.uk/node/33976).
+
 ### 11/30
 
 ~~Zhongshan University postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1735210).~~
 
-*None fascinates So. NON-AJO*
+**None fascinates So. NON-AJO**
 
 ### 11/30
 
