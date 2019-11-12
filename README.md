@@ -131,12 +131,16 @@ _Not suitable for Haruna_
 
 **Gave up by cheap salary and bad Haruna**
 
-### 11/15 ###
+### 11/15
 
 TRIUMF in Canada postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14521).
 
 _Near the university of British Columbia. soso_
+
+_DM phenomenology including David McKeen, seems interesting_
+
+**Applied**
 
 ### 11/15
 
@@ -154,6 +158,8 @@ Please see [here](https://labs.inspirehep.net/jobs/1742964)
 and [here](https://academicjobsonline.org/ajo/jobs/13784).
 
 _Great for Haruna_
+
+**Applied**
 
 ### 11/15
 
@@ -200,7 +206,7 @@ _Good for Haruna_
 ~~Univeristy of Wurzburg postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1757148).~~
 
-**NON-AJO, not so interesting**
+**NON-AJO, not so interesting and gave up**
 
 ### 11/24
 
