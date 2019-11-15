@@ -8,7 +8,7 @@
 
 ## Memos
 
-* Jobs listed in AJO are checked (2019/11/5)
+* Jobs listed in AJO are checked (2019/11/15)
 * ~~Jobs listed in JREC-IN are checked (2019/10/15).~~  No more checking after getting JSPS PD
 * Jobs listed in [inspire](https://labs.inspirehep.net/jobs?field_of_interest=hep-ph&rank=POSTDOC&page=1) are checked (2019/10/15).
 
@@ -169,6 +169,10 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/14743).
 _Near the Stanford University.
 Good for Haruna_
 
+_Interesting, broad range of phenomenology is covered_
+
+**Applied**
+
 ### 11/15
 
 ~~INFN postdoctoral fellowship deadline.
@@ -194,12 +198,18 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15090).
 
 _Great for Haruna_
 
+_A lot of formal staffs?_
+
+**Applied**
+
 ### 11/15
 
 NORDITA in Stockholm postdoc fellowship deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14979).
 
 _Good for Haruna_
+
+**Applied**
 
 ### 11/15
 
@@ -212,6 +222,11 @@ Please see [here](https://labs.inspirehep.net/jobs/1757148).~~
 
 ICTP at Trieste postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15284).
+
+### 11/27
+
+Fermilab postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15452).
 
 ### 11/29
 
@@ -507,6 +522,13 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15283).
 CEA-Saclay at France postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15282).
 
+### 12/1
+
+Tsung-Dao Lee Institute postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15414).
+
+_Nakai-san, Yanagida-san, John Ellis, Jason Evans, etc._
+
 ### 12/2
 
 Los Alamos National Laboratory postdoc position deadline.
@@ -552,6 +574,13 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15289).
 Harvard University postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15268).
 
+### 12/2
+
+Uppsala University in Sweden postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15428).
+
+_Too formal?_
+
 ### 12/6
 
 ICRR postdoc (and fellowship) position deadline.
@@ -591,7 +620,9 @@ Please see [here](https://labs.inspirehep.net/jobs/1757863).
 ### 12/8
 
 Brookhaven National Laboratory postdoc position deadline.
-Please see [here](https://jobs.bnl.gov/job/upton/postdoctoral-research-associate-high-energy-theory-group/3437/13650824).
+Please see [here](https://academicjobsonline.org/ajo/jobs/14810) and [here](https://jobs.bnl.gov/job/upton/postdoctoral-research-associate-high-energy-theory-group/3437/13650824).
+
+_NON-AJO_
 
 ### 12/8
 
@@ -613,10 +644,15 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15129).
 Freiburg University postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15306).
 
+### 12/8
+
+King's College London postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15419).
+
 ### 12/9
 
 Pennsylvania State University postdoc position deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/14810).
+Please see
 
 ### 12/10
 
@@ -639,6 +675,21 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15093).
 
 Hong Kong University of Science postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15097).
+
+### 12/10
+
+C. N. Yang Institute in Stony Brook University postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15490).
+
+### 12/12
+
+SISSA postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15438).
+
+### 12/14
+
+Michigan State University postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15501).
 
 ### 12/15
 
@@ -700,6 +751,32 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15285).
 
 University of Milano Bicocca postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15263).
+
+### 12/15
+
+INFN postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15494).
+
+_Giuseppe Degrassi_
+
+### 12/15
+
+University of Trino postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15500).
+
+_difficult QCD staff?_
+
+### 12/15
+
+Chinese Academy of Science postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15388).
+
+_Seems cheep salary?_
+
+### 12/15
+
+INFN and SISSA postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15434).
 
 ### 12/16
 
