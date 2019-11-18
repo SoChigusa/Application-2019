@@ -258,7 +258,8 @@ _sososo for Haruna_
 
 Max Planck in Heidelberg postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15092).
-Great for Haruna
+
+_Great for Haruna_
 
 ### 11/30
 
@@ -273,17 +274,23 @@ Europe high-energy group postdoc position deadline.
 Application starts from 10/1.
 Please see [here](https://itf.fys.kuleuven.be/postdoc-application/).
 
+**NON-AJO**
+
 ### 12/1 ###
 
-IPMU position by Kakenhi “Fusion of analytical and numerical methods
+~~IPMU position by Kakenhi “Fusion of analytical and numerical methods
 for the quantum world of elementary particles and the Universe.”
 deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/14423).
+Please see [here](https://academicjobsonline.org/ajo/jobs/14423).~~
+
+**Neglect Japanese positions**
 
 ### 12/1
 
-IPMU postdoc position deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/14487).
+~~IPMU postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/14487).~~
+
+**Neglect Japanese positions**
 
 ### 12/1 ###
 
@@ -329,11 +336,6 @@ and [here](https://labs.inspirehep.net/jobs/1753311).
 University of Hawaii postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1754163)
 and [here](https://academicjobsonline.org/ajo/jobs/14664).
-
-### 12/1
-
-University of Genoa postdoc position deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/14736).
 
 ### 12/1
 
@@ -428,6 +430,8 @@ University of Washington postdoc deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14996)
 and [here](https://labs.inspirehep.net/jobs/1756988).
 
+**NON-AJO**
+
 ### 12/1
 
 Trinity College Dublin postdoc fellowship deadline.
@@ -437,6 +441,8 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15031).
 
 Princeton University postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1758200).
+
+**NON-AJO**
 
 ### 12/1
 
@@ -455,22 +461,30 @@ and [here](https://academicjobsonline.org/ajo?action=joblist&id=15028).
 Nikhef postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1758537).
 
+**NON-AJO**
+
 ### 12/1
 
 Virginia Univeristy postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1756686).
 
+**NON-AJO**
+
 ### 12/1
 
-University of Genoa postdoc position deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/14736).
+~~University of Genoa postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/14736).~~
 
 _Not suitable for Haruna_
+
+**Gave up by bad Haruna**
 
 ### 12/1
 
 Willian & Mary postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15231).
+
+**NON-AJO**
 
 ### 12/1
 
