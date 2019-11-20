@@ -563,6 +563,8 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15003).
 Max Planck Institute for Physics in Munich postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1757486).
 
+**NON-AJO**
+
 ### 12/2
 
 University of Colorado postdoc position deadline.
@@ -573,15 +575,21 @@ Please see [here](https://labs.inspirehep.net/jobs/1757212) and [here](https://a
 University of Oxford postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15163).
 
+**NON-AJO**
+
 ### 12/2
 
 University of Oxford postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15144).
 
+**NON-AJO**
+
 ### 12/2
 
 University of Oxford postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15289).
+
+**NON-AJO**
 
 ### 12/2
 
@@ -597,18 +605,24 @@ _Too formal?_
 
 ### 12/6
 
-ICRR postdoc (and fellowship) position deadline.
-Please see the first e-mail from Kawasaki-san on 9/27.
+~~ICRR postdoc (and fellowship) position deadline.
+Please see the first e-mail from Kawasaki-san on 9/27.~~
+
+**Neglect Japanese positions**
 
 ### 12/6
 
 Annecy postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1758714).
 
+**NON-AJO**
+
 ### 12/6
 
-Chalmers University postdoc position deadline.
-Please see [here](https://labs.inspirehep.net/jobs/1756850).
+~~Chalmers University postdoc position deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1756850).~~
+
+**Gave up by not-so-interesting, NON-AJO**
 
 ### 12/7
 
@@ -631,12 +645,14 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15138).
 Karlsruhe Institute of Technology postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1757863).
 
+**NON-AJO**
+
 ### 12/8
 
 Brookhaven National Laboratory postdoc position deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/14810) and [here](https://jobs.bnl.gov/job/upton/postdoctoral-research-associate-high-energy-theory-group/3437/13650824).
+Please see [here](https://jobs.bnl.gov/job/upton/postdoctoral-research-associate-high-energy-theory-group/3437/13650824).
 
-_NON-AJO_
+**NON-AJO with not-so-bad fields-of-interest**
 
 ### 12/8
 
@@ -666,14 +682,16 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15419).
 ### 12/9
 
 Pennsylvania State University postdoc position deadline.
-Please see
+Please see [here](https://academicjobsonline.org/ajo/jobs/14810).
 
 ### 12/10
 
-KEK position by Kakenhi “Fusion of analytical and numerical methods
+~~KEK position by Kakenhi “Fusion of analytical and numerical methods
 for the quantum world of elementary particles and the Universe.”
 deadline.
-Please see [here](https://academicjobsonline.org/ajo/edelivery/3761).
+Please see [here](https://academicjobsonline.org/ajo/edelivery/3761).~~
+
+**Neglect Japanese positions**
 
 ### 12/10
 
@@ -748,8 +766,10 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15345).
 
 ### 12/15
 
-Chinese Academy of Science special research fellow deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/15338).
+~~Chinese Academy of Science special research fellow deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15338).~~
+
+**Gave up by Chinese, NON-AJO**
 
 ### 12/15
 
@@ -802,10 +822,14 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15130).
 Ecole Polytechnique postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15325).
 
+**Gave up by too complicated QCD calculation, NON-AJO**
+
 ### 12/17
 
-KEK position by Kakenhi "Neutrino" deadline.
-Please see [here](https://academicjobsonline.org/ajo/edelivery/3764).
+~~KEK position by Kakenhi "Neutrino" deadline.
+Please see [here](https://academicjobsonline.org/ajo/edelivery/3764).~~
+
+**Neglect Japanese positions**
 
 ### 12/20
 
@@ -822,35 +846,49 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15005).
 DESY postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1755192).
 
-### 12/31
-
-Hunan University postdoc position deadline.
-Please see [here](https://labs.inspirehep.net/jobs/1753073).
+**NON-AJO**
 
 ### 12/31
 
-Jiangxi Normal University postdoc position deadline.
-Please see [here](https://labs.inspirehep.net/jobs/1710554).
+~~Hunan University postdoc position deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1753073).~~
+
+**Gave up by Chinese, NON-AJO**
 
 ### 12/31
 
-IMP at Lanzhou postdoc position deadline.
-Please see [here](https://labs.inspirehep.net/jobs/1206133).
+~~Jiangxi Normal University postdoc position deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1710554).~~
+
+**Gave up by Chinese, NON-AJO**
 
 ### 12/31
 
-Lanzhou University postdoc position deadline.
-Please see [here](https://labs.inspirehep.net/jobs/1647746).
+~~IMP at Lanzhou postdoc position deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1206133).~~
+
+**Gave up by Chinese, NON-AJO**
+
+### 12/31
+
+~~Lanzhou University postdoc position deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1647746).~~
+
+**Gave up by low salary, NON-AJO**
 
 ### 12/31
 
 Virginia Tech postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1703870).
 
+**NON-AJO**
+
 ### 1/1
 
 Nanjing Normal University international postdoc fellowship deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1736987).
+
+**Chinese, NON-AJO**
 
 ### 1/6
 
@@ -861,6 +899,8 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15019).
 Wuhan University postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1754465).
 
+**Gave up by low salary, NON-AJO**
+
 ### 1/15
 
 Chinese Academy of Sciences postdoc position deadline.
@@ -870,3 +910,5 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15368).
 
 CERN Senior Research Fellowship (with a limited number positions for non-member states) deadline.
 Please see [here](https://jobs.smartrecruiters.com/CERN/743999695853937-senior-research-fellowship-programme-theoretical-experimental-physics?trid=3320305b-0f5f-4245-a3a4-e2e46bc46590).
+
+**NON-AJO**
