@@ -223,6 +223,8 @@ Please see [here](https://labs.inspirehep.net/jobs/1757148).~~
 ICTP at Trieste postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15284).
 
+**Applied**
+
 ### 11/27
 
 Fermilab postdoc position deadline.
@@ -542,6 +544,11 @@ Tsung-Dao Lee Institute postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15414).
 
 _Nakai-san, Yanagida-san, John Ellis, Jason Evans, etc._
+
+### 12/1
+
+KITS in Peking postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15140).
 
 ### 12/2
 
