@@ -433,6 +433,7 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/14996)
 and [here](https://labs.inspirehep.net/jobs/1756988).
 
 **NON-AJO**
+Soso for Haruna
 
 ### 12/1
 
@@ -445,6 +446,7 @@ Princeton University postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1758200).
 
 **NON-AJO**
+Great for Haruna
 
 ### 12/1
 
@@ -464,6 +466,7 @@ Nikhef postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1758537).
 
 **NON-AJO**
+Soso for Haruna
 
 ### 12/1
 
@@ -471,6 +474,7 @@ Virginia Univeristy postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1756686).
 
 **NON-AJO**
+Good for Haruna
 
 ### 12/1
 
@@ -485,6 +489,7 @@ _Not suitable for Haruna_
 
 Willian & Mary postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15231).
+Soso for Haruna
 
 **NON-AJO**
 
@@ -571,6 +576,7 @@ Max Planck Institute for Physics in Munich postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1757486).
 
 **NON-AJO**
+Goog for Haruna
 
 ### 12/2
 
@@ -583,6 +589,7 @@ University of Oxford postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15163).
 
 **NON-AJO**
+Good for Haruna
 
 ### 12/2
 
@@ -623,6 +630,7 @@ Annecy postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1758714).
 
 **NON-AJO**
+Bad for Haruna
 
 ### 12/6
 
@@ -653,6 +661,7 @@ Karlsruhe Institute of Technology postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1757863).
 
 **NON-AJO**
+Bad for Haruna
 
 ### 12/8
 
