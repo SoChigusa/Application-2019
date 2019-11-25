@@ -669,6 +669,7 @@ Brookhaven National Laboratory postdoc position deadline.
 Please see [here](https://jobs.bnl.gov/job/upton/postdoctoral-research-associate-high-energy-theory-group/3437/13650824).
 
 **NON-AJO with not-so-bad fields-of-interest**
+Bad for Haruna
 
 ### 12/8
 
@@ -863,6 +864,7 @@ DESY postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1755192).
 
 **NON-AJO**
+Good so for Haruna
 
 ### 12/31
 
@@ -898,6 +900,7 @@ Virginia Tech postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1703870).
 
 **NON-AJO**
+Soso for Haruna
 
 ### 1/1
 
@@ -905,6 +908,7 @@ Nanjing Normal University international postdoc fellowship deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1736987).
 
 **Chinese, NON-AJO**
+Bad for Haruna
 
 ### 1/6
 
