@@ -230,17 +230,14 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15284).
 Fermilab postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15452).
 
+**Applied**
+
 ### 11/29
 
 ~~ICRR project researcher position deadline.
 Please see the second e-mail from Kawasaki-san on 9/27.~~
 
 **Neglect Japanese positions**
-
-### 11/29
-
-University of Oxford postdoc position deadline.
-Please see [here](http://www.maths.ox.ac.uk/node/33976).
 
 ### 11/30
 
@@ -256,6 +253,8 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/14568).
 
 _sososo for Haruna_
 
+**Applied**
+
 ### 11/30
 
 Max Planck in Heidelberg postdoc position deadline.
@@ -263,12 +262,16 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15092).
 
 _Great for Haruna_
 
+**Applied**
+
 ### 11/30
 
 Technical University of Munich postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15191).
 
 _sososo for Haruna_
+
+**Applied**
 
 ### 11/30
 
