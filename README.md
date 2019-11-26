@@ -428,12 +428,13 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15095).
 
 ### 12/1
 
-University of Washington postdoc deadline.
+~~University of Washington postdoc deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14996)
-and [here](https://labs.inspirehep.net/jobs/1756988).
+and [here](https://labs.inspirehep.net/jobs/1756988).~~
 
-**NON-AJO**
-Soso for Haruna
+_Soso for Haruna_
+
+**David B. Kaplan and so on, too much confinement, NON-AJO and gave up by bad Haruna**
 
 ### 12/1
 
@@ -442,11 +443,12 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15031).
 
 ### 12/1
 
-Princeton University postdoc position deadline.
-Please see [here](https://labs.inspirehep.net/jobs/1758200).
+~~Princeton University postdoc position deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1758200).~~
 
-**NON-AJO**
 Great for Haruna
+
+**Gave up due to too formal staffs, NON-AJO**
 
 ### 12/1
 
@@ -462,19 +464,21 @@ and [here](https://academicjobsonline.org/ajo?action=joblist&id=15028).
 
 ### 12/1
 
-Nikhef postdoc position deadline.
-Please see [here](https://labs.inspirehep.net/jobs/1758537).
+~~Nikhef postdoc position deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1758537).~~
 
-**NON-AJO**
 Soso for Haruna
+
+**Gave up byNON-AJO, not-so-interesting people**
 
 ### 12/1
 
-Virginia Univeristy postdoc position deadline.
+Virginia Tech postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1756686).
 
-**NON-AJO**
 Good for Haruna
+
+**Takeuchi-san (of Peskin-Takeuchi), Horiuchi-san, Ian Shoemaker, a lot of interest, NON-AJO**
 
 ### 12/1
 
@@ -487,11 +491,12 @@ _Not suitable for Haruna_
 
 ### 12/1
 
-Willian & Mary postdoc position deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/15231).
-Soso for Haruna
+~~Willian & Mary postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15231).~~
 
-**NON-AJO**
+_Soso for Haruna_
+
+**Gave up by NON-AJO, bad Haruna, small group**
 
 ### 12/1
 
@@ -575,8 +580,9 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15003).
 Max Planck Institute for Physics in Munich postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1757486).
 
+_Good for Haruna_
+
 **NON-AJO**
-Goog for Haruna
 
 ### 12/2
 
@@ -588,22 +594,23 @@ Please see [here](https://labs.inspirehep.net/jobs/1757212) and [here](https://a
 University of Oxford postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15163).
 
-**NON-AJO**
 Good for Haruna
+
+**QCD and collider phenomenology, NON-AJO**
 
 ### 12/2
 
 University of Oxford postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15144).
 
-**NON-AJO**
+**QCD and collider phenomenology, NON-AJO**
 
 ### 12/2
 
 University of Oxford postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15289).
 
-**NON-AJO**
+**BSM and DM, NON-AJO**
 
 ### 12/2
 
@@ -657,19 +664,21 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15138).
 
 ### 12/8
 
-Karlsruhe Institute of Technology postdoc position deadline.
-Please see [here](https://labs.inspirehep.net/jobs/1757863).
+~~Karlsruhe Institute of Technology postdoc position deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1757863).~~
 
-**NON-AJO**
-Bad for Haruna
+_Bad for Haruna_
+
+**Gave up by NON-AJO, bad Haruna**
 
 ### 12/8
 
-Brookhaven National Laboratory postdoc position deadline.
-Please see [here](https://jobs.bnl.gov/job/upton/postdoctoral-research-associate-high-energy-theory-group/3437/13650824).
+~~Brookhaven National Laboratory postdoc position deadline.
+Please see [here](https://jobs.bnl.gov/job/upton/postdoctoral-research-associate-high-energy-theory-group/3437/13650824).~~
 
-**NON-AJO with not-so-bad fields-of-interest**
 Bad for Haruna
+
+**Gave up by NON-AJO (with not-so-bad fields-of-interest), bad Haruna**
 
 ### 12/8
 
@@ -836,8 +845,8 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15130).
 
 ### 12/16
 
-Ecole Polytechnique postdoc position deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/15325).
+~~Ecole Polytechnique postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15325).~~
 
 **Gave up by too complicated QCD calculation, NON-AJO**
 
@@ -863,8 +872,9 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15005).
 DESY postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1755192).
 
+Good for Haruna
+
 **NON-AJO**
-Good so for Haruna
 
 ### 12/31
 
@@ -899,16 +909,18 @@ Please see [here](https://labs.inspirehep.net/jobs/1647746).~~
 Virginia Tech postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1703870).
 
+_Soso for Haruna_
+
 **NON-AJO**
-Soso for Haruna
 
 ### 1/1
 
-Nanjing Normal University international postdoc fellowship deadline.
-Please see [here](https://labs.inspirehep.net/jobs/1736987).
+~~Nanjing Normal University international postdoc fellowship deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1736987).~~
 
-**Chinese, NON-AJO**
-Bad for Haruna
+_Bad for Haruna_
+
+**Gave up by Chinese, NON-AJO, and bad Haruna**
 
 ### 1/6
 
@@ -916,8 +928,9 @@ Pennsylvania State University postdoc deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15019).
 
 ### 1/10
-Wuhan University postdoc position deadline.
-Please see [here](https://labs.inspirehep.net/jobs/1754465).
+
+~~Wuhan University postdoc position deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1754465).~~
 
 **Gave up by low salary, NON-AJO**
 
