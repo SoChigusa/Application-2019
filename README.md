@@ -275,11 +275,11 @@ _sososo for Haruna_
 
 ### 11/30
 
-Europe high-energy group postdoc position deadline.
+~~Europe high-energy group postdoc position deadline.
 Application starts from 10/1.
-Please see [here](https://itf.fys.kuleuven.be/postdoc-application/).
+Please see [here](https://itf.fys.kuleuven.be/postdoc-application/).~~
 
-**NON-AJO**
+**gave up since found formal, NON-AJO**
 
 ### 12/1 ###
 
@@ -481,7 +481,7 @@ Please see [here](https://labs.inspirehep.net/jobs/1756686).
 
 Good for Haruna
 
-**Takeuchi-san (of Peskin-Takeuchi), Horiuchi-san, Ian Shoemaker, a lot of interest, NON-AJO**
+**Takeuchi-san (of Peskin-Takeuchi), Horiuchi-san, Ian Shoemaker, a lot of interest, NON-AJO, applied**
 
 ### 12/1
 
@@ -585,7 +585,7 @@ Please see [here](https://labs.inspirehep.net/jobs/1757486).
 
 _Good for Haruna_
 
-**NON-AJO**
+**NON-AJO, Applied**
 
 ### 12/2
 
@@ -597,23 +597,27 @@ Please see [here](https://labs.inspirehep.net/jobs/1757212) and [here](https://a
 University of Oxford postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15163).
 
-Good for Haruna
+_Good for Haruna_
 
-**QCD and collider phenomenology, NON-AJO**
+**QCD and collider phenomenology, NON-AJO, Applied**
 
 ### 12/2
 
 University of Oxford postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15144).
 
-**QCD and collider phenomenology, NON-AJO**
+_Good for Haruna_
+
+**QCD and collider phenomenology, NON-AJO, Applied**
 
 ### 12/2
 
 University of Oxford postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15289).
 
-**BSM and DM, NON-AJO**
+_Good for Haruna_
+
+**BSM and DM, NON-AJO, Applied**
 
 ### 12/2
 
@@ -636,11 +640,12 @@ Please see the first e-mail from Kawasaki-san on 9/27.~~
 
 ### 12/6
 
-Annecy postdoc position deadline.
-Please see [here](https://labs.inspirehep.net/jobs/1758714).
+~~Annecy postdoc position deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1758714).~~
 
-**NON-AJO**
 Bad for Haruna
+
+**Gave up by NON-AJO, bad Harina**
 
 ### 12/6
 
@@ -906,15 +911,6 @@ Please see [here](https://labs.inspirehep.net/jobs/1206133).~~
 Please see [here](https://labs.inspirehep.net/jobs/1647746).~~
 
 **Gave up by low salary, NON-AJO**
-
-### 12/31
-
-Virginia Tech postdoc position deadline.
-Please see [here](https://labs.inspirehep.net/jobs/1703870).
-
-_Soso for Haruna_
-
-**NON-AJO**
 
 ### 1/1
 
