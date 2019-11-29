@@ -711,7 +711,10 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15306).
 ### 12/8
 
 King's College London postdoc position deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/15419).
+It seems that two positions are available for three and two years.
+Information summarized [here](https://labs.inspirehep.net/jobs/1763358).
+Please also see [here](https://academicjobsonline.org/ajo/jobs/15419)
+and [here](https://academicjobsonline.org/ajo/jobs/15420).
 
 ### 12/9
 
@@ -751,6 +754,13 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15490).
 
 SISSA postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15438).
+
+### 12/13
+
+UCLouvain in Belgium postdoc position deadline.
+Please see [here](https://cp3.irmp.ucl.ac.be/jobs/61).
+
+**NON-AJO**
 
 ### 12/14
 
@@ -846,6 +856,13 @@ _Seems cheep salary?_
 INFN and SISSA postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15434).
 
+### 12/15
+
+~~CHEP and ITP at Peking University postdoc position deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1760337).~~
+
+**Gave up by Chinese, NON-AJO**
+
 ### 12/16
 
 University of Pittsburgh postdoctoral fellowship deadline.
@@ -911,6 +928,13 @@ Please see [here](https://labs.inspirehep.net/jobs/1206133).~~
 Please see [here](https://labs.inspirehep.net/jobs/1647746).~~
 
 **Gave up by low salary, NON-AJO**
+
+### 12/31
+
+~~UCAS in China postdoc position deadline.
+Please see Moroi-san's e-mail on 11/28.~~
+
+**Yong Tang, gave up by Chinese, NON-AJO**
 
 ### 1/1
 
