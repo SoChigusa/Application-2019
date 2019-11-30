@@ -39,10 +39,11 @@ citecolor=steelblue,
 \newcommand{\hyphen}{\,\mathchar`-\mathchar`-\,}
 
 %%%%% Professor Name %%%%%
-\def\professorname{Thomas Hahn}
-% \def\noprofessorname{} % activate this to use "To whom..."
+% \def\professorname{Hitoshi Murayama}
+\def\noprofessorname{} % activate this to use "To whom..."
 % \def\fellowship{} % activate this if fellowship
-\def\groupname{theoretical particle physics} % high energy theory group name if exist
+\def\groupname{the University of Zurich} % high energy theory group name if exist
+\def\freestyle{} % or free-style
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%    remove the following commands when finalizing
@@ -66,7 +67,7 @@ citecolor=steelblue,
 {To whom it may concern,}
 
 \vspace{3mm}
-I would like to inquire whether there is a \ifthenelse{\isundefined{\fellowship}}{postdoctoral}{postdoctoral research fellowship} position at your \ifthenelse{\isundefined{\groupname}}{high energy theory}{\groupname} group starting in Fall 2020.
+I would like to inquire whether there is a \ifthenelse{\isundefined{\fellowship}}{postdoctoral}{postdoctoral research fellowship} position in theoretical particle physics\ifthenelse{\isundefined{\groupname}}{\freestyle}{ at \groupname} starting in Fall 2020.
 I am currently a graduate student at the University of Tokyo and going to finish my Ph.D. in March 2020.
 
 I am an energetic researcher who enjoys working with people on a broad range of topics.

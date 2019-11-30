@@ -305,30 +305,42 @@ and [here](https://labs.inspirehep.net/jobs/1756185).
 
 _soso for Haruna_
 
+**Applied**
+
 ### 12/1 ###
 
 University of Illinois postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14554).
 
+**Applied**
+
 ### 12/1 ###
 
-KIAS postdoctoral research fellow deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/14160).
+~~KIAS postdoctoral research fellow deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/14160).~~
+
+**Gave up by normal salary in Korea**
 
 ### 12/1 ###
 
 MIT postdoc deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14431).
 
+**Applied**
+
 ### 12/1 ###
 
 University of Wisconsin postdoc deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14658).
 
+**Applied**
+
 ### 12/1 ###
 
 Hamburg University, DESY, and the Weizmann Institute of Science joint postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14404).
+
+**Applied**
 
 ### 12/1
 
@@ -336,11 +348,15 @@ University of Minnesota postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14538)
 and [here](https://labs.inspirehep.net/jobs/1753311).
 
+**Applied**
+
 ### 12/1
 
 University of Hawaii postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1754163)
 and [here](https://academicjobsonline.org/ajo/jobs/14664).
+
+**Applied**
 
 ### 12/1
 
@@ -348,15 +364,21 @@ McGill University postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14969)
 and [here](https://labs.inspirehep.net/jobs/1757492).
 
+**Applied**
+
 ### 12/1
 
 University of Maryland postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14890).
 
+**Applied**
+
 ### 12/1
 
 University of Michigan postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14876).
+
+**Applied**
 
 ### 12/1
 
@@ -364,70 +386,91 @@ University of Bern postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14805)
 and [here](https://labs.inspirehep.net/jobs/1755848).
 
-### 12/1
-
-Technion postdoc position deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/14809).
+**Applied**
 
 ### 12/1
 
-Hebrew University in Israel postdoc position deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/14825).
+~~Technion postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/14809).~~
+
+**Gave up Israel positions**
 
 ### 12/1
 
-University of Copenhagen postdoctoral fellowship deadline.
+~~Hebrew University in Israel postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/14825).~~
+
+**Gave up Israel positions**
+
+### 12/1
+
+University of Copenhagen, the Niels Bohr International Academy postdoctoral fellowship deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14826).
 
+**Applied**
+
 ### 12/1
 
-University of California postdoc position deadline.
+UC San Diego postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14836).
+
+**Applied**
 
 ### 12/1
 
 University of Genova postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14736).
 
+**Applied**
+
 ### 12/1
 
 University of Maryland and Johns Hopkins University joint postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14777).
 
-### 12/1
-
-University of Wisconsin postdoc position deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/14658).
+**Applied**
 
 ### 12/1
 
 Johns Hopkins University postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14672).
 
+**Applied**
+
 ### 12/1
 
-National Taiwan University postdoc position deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/14689).
+~~National Taiwan University postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/14689).~~
+
+**Gave up Taiwan positions**
 
 ### 12/1
 
 Berkeley postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15049).
 
+**Applied**
+
 ### 12/1
 
 University of Zurich postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15055).
+
+**Applied**
 
 ### 12/1
 
 York University postdoc deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15085).
 
+**Applied**
+
 ### 12/1
 
 Rice University postdoc deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15095).
+
+**Applied**
 
 ### 12/1
 
@@ -444,6 +487,8 @@ _Soso for Haruna_
 Trinity College Dublin postdoc fellowship deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15031).
 
+**Applied**
+
 ### 12/1
 
 ~~Princeton University postdoc position deadline.
@@ -459,11 +504,15 @@ Stanford-SLAC postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1758420)
 and [here](https://academicjobsonline.org/ajo/jobs/12215).
 
+**Applied**
+
 ### 12/1
 
 Munich postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1758527)
 and [here](https://academicjobsonline.org/ajo?action=joblist&id=15028).
+
+**Applied, signal may be checked**
 
 ### 12/1
 
@@ -472,7 +521,7 @@ Please see [here](https://labs.inspirehep.net/jobs/1758537).~~
 
 Soso for Haruna
 
-**Gave up byNON-AJO, not-so-interesting people**
+**Gave up by NON-AJO, not-so-interesting people**
 
 ### 12/1
 
@@ -503,80 +552,110 @@ _Soso for Haruna_
 
 ### 12/1
 
-Purdue Univeristy postdoc position deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/15230).
+~~Purdue Univeristy postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15230).~~
+
+**Gave up by too formal staff**
 
 ### 12/1
 
-Zhejiang University postdoc position deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/15202).
+~~Zhejiang University postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15202).~~
+
+**Gave up Chinese positions**
 
 ### 12/1
 
 CEA-Saclay in France postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15128).
 
+**Applied**
+
 ### 12/1
 
 Northeastern University postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15154).
+
+**Applied**
 
 ### 12/1
 
 University of Santiago postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15150).
 
+**Applied**
+
 ### 12/1
 
 University of Padova postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15127).
 
+**Applied**
+
 ### 12/1
 
-University of Toronto postdoc position deadline.
+University of Toronto and Perimeter Institute joint postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15354).
+
+**Applied**
 
 ### 12/1
 
 Rutgers University postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15322).
 
+**Applied**
+
 ### 12/1
 
 Johannes Gutenberg University Mainz postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15283).
+
+**Applied**
 
 ### 12/1
 
 CEA-Saclay at France postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15282).
 
+**Applied**
+
 ### 12/1
 
-Tsung-Dao Lee Institute postdoc position deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/15414).
+~~Tsung-Dao Lee Institute postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15414).~~
 
 _Nakai-san, Yanagida-san, John Ellis, Jason Evans, etc._
 
+**Gave up Chinese positions**
+
 ### 12/1
 
-KITS in Peking postdoc position deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/15140).
+~~KITS in Peking postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15140).~~
+
+**Gave up by normal salary, too formal staff**
 
 ### 12/2
 
 Los Alamos National Laboratory postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14997).
 
+**Applied**
+
 ### 12/2
 
 The University of Texas postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14686).
 
+**Applied**
+
 ### 12/2
 
 Durham University postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15003).
+
+**Applied**
 
 ### 12/2
 
@@ -589,8 +668,10 @@ _Good for Haruna_
 
 ### 12/2
 
-University of Colorado postdoc position deadline.
-Please see [here](https://labs.inspirehep.net/jobs/1757212) and [here](https://academicjobsonline.org/ajo/jobs/15316).
+~~University of Colorado postdoc position deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1757212) and [here](https://academicjobsonline.org/ajo/jobs/15316).~~
+
+**Gave up by nucl-th**
 
 ### 12/2
 
@@ -624,12 +705,14 @@ _Good for Haruna_
 Harvard University postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15268).
 
+**Applied**
+
 ### 12/2
 
-Uppsala University in Sweden postdoc position deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/15428).
+~~Uppsala University in Sweden postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15428).~~
 
-_Too formal?_
+**Gave up by too formal staff**
 
 ### 12/6
 
