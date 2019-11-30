@@ -8,7 +8,7 @@
 
 ## Memos
 
-* Jobs listed in AJO are checked (2019/11/15)
+* Jobs listed in AJO are checked (2019/12/1)
 * ~~Jobs listed in JREC-IN are checked (2019/10/15).~~  No more checking after getting JSPS PD
 * Jobs listed in [inspire](https://labs.inspirehep.net/jobs?field_of_interest=hep-ph&rank=POSTDOC&page=1) are checked (2019/10/15).
 
@@ -714,6 +714,13 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15428).~~
 
 **Gave up by too formal staff**
 
+### 12/3
+
+Columbia University postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15584).
+
+_Should be submitted ASAP_
+
 ### 12/6
 
 ~~ICRR postdoc (and fellowship) position deadline.
@@ -946,6 +953,11 @@ Please see [here](https://labs.inspirehep.net/jobs/1760337).~~
 
 **Gave up by Chinese, NON-AJO**
 
+### 12/15
+
+Bonn University postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15602).
+
 ### 12/16
 
 University of Pittsburgh postdoctoral fellowship deadline.
@@ -983,6 +995,31 @@ Please see [here](https://labs.inspirehep.net/jobs/1755192).
 Good for Haruna
 
 **NON-AJO**
+
+### 12/21
+
+SISSA postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15589).
+
+### 12/22
+
+Swansea University postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15582).
+
+### 12/23
+
+University of Melbourne postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15567).
+
+### 12/24
+
+Universidade Estadual de Campinas at Sao Paulo postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15544).
+
+### 12/27
+
+University of Adelaide postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15612).
 
 ### 12/31
 
@@ -1033,6 +1070,11 @@ _Bad for Haruna_
 Pennsylvania State University postdoc deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15019).
 
+### 1/8
+
+Chinese Academy of Science postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15622).
+
 ### 1/10
 
 ~~Wuhan University postdoc position deadline.
@@ -1044,6 +1086,18 @@ Please see [here](https://labs.inspirehep.net/jobs/1754465).~~
 
 Chinese Academy of Sciences postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15368).
+
+### 1/31
+
+Tsinghua University postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15621).
+
+### 2/1
+
+Moscow state university postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15605).
+
+_Too formal?_
 
 ### 3/2
 
