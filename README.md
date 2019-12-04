@@ -799,6 +799,20 @@ Information summarized [here](https://labs.inspirehep.net/jobs/1763358).
 Please also see [here](https://academicjobsonline.org/ajo/jobs/15419)
 and [here](https://academicjobsonline.org/ajo/jobs/15420).
 
+### 12/8
+
+DESY postdoc position#1 deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1767582).
+
+**NON-AJO, Applied**
+
+### 12/8
+
+DESY postdoc position#2 deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1767598).
+
+**NON-AJO, Applied**
+
 ### 12/9
 
 Pennsylvania State University postdoc position deadline.
@@ -840,10 +854,10 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15438).
 
 ### 12/13
 
-UCLouvain in Belgium postdoc position deadline.
-Please see [here](https://cp3.irmp.ucl.ac.be/jobs/61).
+~~UCLouvain in Belgium postdoc position deadline.
+Please see [here](https://cp3.irmp.ucl.ac.be/jobs/61).~~
 
-**NON-AJO**
+**Gave up by NON-AJO**
 
 ### 12/14
 
@@ -982,7 +996,7 @@ Please see [here](https://labs.inspirehep.net/jobs/1755192).
 
 Good for Haruna
 
-**NON-AJO**
+**NON-AJO, Applied**
 
 ### 12/31
 
