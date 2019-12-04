@@ -3,36 +3,36 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: cv.aux
 The style file: ../JHEP.bst
 Database file #1: ../pl.bib
-You've used 12 entries,
+You've used 13 entries,
             2217 wiz_defined-function locations,
-            630 strings with 6095 characters,
-and the built_in function-call counts, 3944 in all, are:
-= -- 399
-> -- 176
+            637 strings with 6346 characters,
+and the built_in function-call counts, 4104 in all, are:
+= -- 410
+> -- 194
 < -- 0
-+ -- 50
-- -- 38
-* -- 352
-:= -- 546
-add.period$ -- 12
-call.type$ -- 12
-change.case$ -- 12
++ -- 55
+- -- 42
+* -- 368
+:= -- 574
+add.period$ -- 13
+call.type$ -- 13
+change.case$ -- 13
 chr.to.int$ -- 0
-cite$ -- 12
-duplicate$ -- 200
-empty$ -- 326
-format.name$ -- 38
-if$ -- 1032
+cite$ -- 13
+duplicate$ -- 204
+empty$ -- 336
+format.name$ -- 42
+if$ -- 1069
 int.to.chr$ -- 0
-int.to.str$ -- 12
-missing$ -- 46
-newline$ -- 40
-num.names$ -- 12
-pop$ -- 19
+int.to.str$ -- 13
+missing$ -- 49
+newline$ -- 43
+num.names$ -- 13
+pop$ -- 20
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 170
+skip$ -- 171
 stack$ -- 0
 substring$ -- 162
 swap$ -- 112
@@ -41,7 +41,7 @@ text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 25
-width$ -- 14
-write$ -- 126
+while$ -- 26
+width$ -- 15
+write$ -- 133
 is.kanji.str$ -- 0
