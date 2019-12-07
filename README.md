@@ -746,19 +746,25 @@ Please see [here](https://labs.inspirehep.net/jobs/1756850).~~
 
 ### 12/7
 
-Queen's University postdoc position deadline.
+~~Queen's University postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1752213)
-and [here](https://academicjobsonline.org/ajo/jobs/14405).
+and [here](https://academicjobsonline.org/ajo/jobs/14405).~~
+
+**Gave up by Canadian and permanent resident priolrity**
 
 ### 12/7
 
 University of Pittsburgh postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15180).
 
+**Applied**
+
 ### 12/7
 
 Case Western Reserve Univeristy postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15138).
+
+**Applied**
 
 ### 12/8
 
@@ -783,20 +789,28 @@ Bad for Haruna
 Oklahoma State University postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15201).
 
+**Applied**
+
 ### 12/8
 
-Karlsruhe Institute of Technology postdoc position deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/15161).
+~~Karlsruhe Institute of Technology postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15161).~~
+
+**Gave up by bad Haruna**
 
 ### 12/8
 
 University of Torino postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15129).
 
+**Applied**
+
 ### 12/8
 
 Freiburg University postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15306).
+
+**Applied**
 
 ### 12/8
 
@@ -806,12 +820,21 @@ Information summarized [here](https://labs.inspirehep.net/jobs/1763358).
 Please also see [here](https://academicjobsonline.org/ajo/jobs/15419)
 and [here](https://academicjobsonline.org/ajo/jobs/15420).
 
+**Now being applied**
+
 ### 12/8
 
-DESY postdoc position deadline.
-Please see [here](https://labs.inspirehep.net/jobs?sort=mostrecent&size=25&page=1&field_of_interest=hep-ph&rank=POSTDOC).
+DESY postdoc position#1 deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1767582).
 
-**NON-AJO, ASAP**
+**NON-AJO, Applied**
+
+### 12/8
+
+DESY postdoc position#2 deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1767598).
+
+**NON-AJO, Applied**
 
 ### 12/9
 
@@ -866,10 +889,10 @@ Please see [here](https://labs.inspirehep.net/jobs/1763449).
 
 ### 12/13
 
-UCLouvain in Belgium postdoc position deadline.
-Please see [here](https://cp3.irmp.ucl.ac.be/jobs/61).
+~~UCLouvain in Belgium postdoc position deadline.
+Please see [here](https://cp3.irmp.ucl.ac.be/jobs/61).~~
 
-**NON-AJO**
+**Gave up by NON-AJO**
 
 ### 12/14
 
@@ -1020,12 +1043,12 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15005).
 
 ### 12/21
 
-DESY postdoc position deadline.
-Please see [here](https://labs.inspirehep.net/jobs/1755192).
+~~DESY postdoc position deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1755192).~~
 
 Good for Haruna
 
-**NON-AJO**
+**Gave up by NON-AJO, higher-order QCD**
 
 ### 12/21
 
