@@ -10,7 +10,7 @@
 
 * Jobs listed in AJO are checked (2019/12/1)
 * ~~Jobs listed in JREC-IN are checked (2019/10/15).~~  No more checking after getting JSPS PD
-* Jobs listed in [inspire](https://labs.inspirehep.net/jobs?field_of_interest=hep-ph&rank=POSTDOC&page=1) are checked (2019/10/15).
+* Jobs listed in [inspire](https://labs.inspirehep.net/jobs?field_of_interest=hep-ph&rank=POSTDOC&page=1) are checked (2019/12/8).
 
 ## Schedule and notes ##
 
@@ -806,6 +806,13 @@ Information summarized [here](https://labs.inspirehep.net/jobs/1763358).
 Please also see [here](https://academicjobsonline.org/ajo/jobs/15419)
 and [here](https://academicjobsonline.org/ajo/jobs/15420).
 
+### 12/8
+
+DESY postdoc position deadline.
+Please see [here](https://labs.inspirehep.net/jobs?sort=mostrecent&size=25&page=1&field_of_interest=hep-ph&rank=POSTDOC).
+
+**NON-AJO, ASAP**
+
 ### 12/9
 
 Pennsylvania State University postdoc position deadline.
@@ -840,10 +847,22 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15097).
 C. N. Yang Institute in Stony Brook University postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15490).
 
+### 12/10
+
+University of Torino postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15371).
+
 ### 12/12
 
 SISSA postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15438).
+
+### 12/12
+
+Cambridge University postdoc position deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1763449).
+
+**NON-AJO**
 
 ### 12/13
 
@@ -958,6 +977,13 @@ Please see [here](https://labs.inspirehep.net/jobs/1760337).~~
 Bonn University postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15602).
 
+### 12/15
+
+Basel University postdoc position deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1760006).
+
+**NON-AJO**
+
 ### 12/16
 
 University of Pittsburgh postdoctoral fellowship deadline.
@@ -969,6 +995,11 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15130).
 Please see [here](https://academicjobsonline.org/ajo/jobs/15325).~~
 
 **Gave up by too complicated QCD calculation, NON-AJO**
+
+### 12/16
+
+University of Nebraska-Lincoln postdoc position deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1765335).
 
 ### 12/17
 
@@ -1016,10 +1047,29 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15567).
 Universidade Estadual de Campinas at Sao Paulo postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15544).
 
+### 12/26
+
+Durham postdoc position deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1763251).
+
+**NON-AJO**
+
 ### 12/27
 
 University of Adelaide postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15612).
+
+### 12/27
+
+Warsaw University postdoc position deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1767012).
+
+**NON-AJO**
+
+### 12/28
+
+New South Wales University postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15665).
 
 ### 12/31
 
@@ -1064,6 +1114,13 @@ Please see [here](https://labs.inspirehep.net/jobs/1736987).~~
 _Bad for Haruna_
 
 **Gave up by Chinese, NON-AJO, and bad Haruna**
+
+### 1/5
+
+UC Irvine postdoc position deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1767919).
+
+**Seems AJO**
 
 ### 1/6
 
