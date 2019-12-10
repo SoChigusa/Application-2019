@@ -721,6 +721,8 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15584).
 
 _Should be submitted ASAP_
 
+**Applied**
+
 ### 12/6
 
 ~~ICRR postdoc (and fellowship) position deadline.
@@ -841,6 +843,8 @@ Please see [here](https://labs.inspirehep.net/jobs/1767598).
 Pennsylvania State University postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14810).
 
+**Applied**
+
 ### 12/10
 
 ~~KEK position by Kakenhi “Fusion of analytical and numerical methods
@@ -855,30 +859,35 @@ Please see [here](https://academicjobsonline.org/ajo/edelivery/3761).~~
 Tel Aviv University postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14751).
 
-### 12/10
-
-Tel Aviv University (2nd?) postdoc position deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/15093).
+**Applied**
 
 ### 12/10
 
-Hong Kong University of Science postdoc position deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/15097).
+~~Hong Kong University of Science postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15097).~~
+
+**Gave up Chinese positions**
 
 ### 12/10
 
 C. N. Yang Institute in Stony Brook University postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15490).
 
+**Applied**
+
 ### 12/10
 
 University of Torino postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15371).
 
+**Applied**
+
 ### 12/12
 
 SISSA postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15438).
+
+**Applied**
 
 ### 12/12
 
@@ -899,26 +908,36 @@ Please see [here](https://cp3.irmp.ucl.ac.be/jobs/61).~~
 Michigan State University postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15501).
 
+**Applied**
+
 ### 12/15
 
 University of Munster postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14891)
 and [here](https://labs.inspirehep.net/jobs/1756933).
 
+**Applied**
+
 ### 12/15
 
 IFIC in Spain postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14737).
+
+**Applied**
 
 ### 12/15
 
 Brown University postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/14762).
 
+**Applied.  Too formal?**
+
 ### 12/15
 
 Scuola Normale Superiore in Italy postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15207).
+
+**Applied**
 
 ### 12/15
 
