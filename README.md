@@ -8,7 +8,7 @@
 
 ## Memos
 
-* Jobs listed in AJO are checked (2019/12/1)
+* Jobs listed in AJO are checked (2019/12/15)
 * ~~Jobs listed in JREC-IN are checked (2019/10/15).~~  No more checking after getting JSPS PD
 * Jobs listed in [inspire](https://labs.inspirehep.net/jobs?field_of_interest=hep-ph&rank=POSTDOC&page=1) are checked (2019/12/8).
 
@@ -891,10 +891,10 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15438).
 
 ### 12/12
 
-Cambridge University postdoc position deadline.
-Please see [here](https://labs.inspirehep.net/jobs/1763449).
+~~Cambridge University postdoc position deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1763449).~~
 
-**NON-AJO**
+**Gave up by NON-AJO**
 
 ### 12/13
 
@@ -946,8 +946,10 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15204).
 
 ### 12/15
 
-IBS in Korea postdoc position deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/15203).
+~~IBS in Korea postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15203).~~
+
+**Gave up Korean positions**
 
 ### 12/15
 
@@ -1026,6 +1028,11 @@ Please see [here](https://labs.inspirehep.net/jobs/1760006).
 
 **NON-AJO**
 
+### 12/15
+
+Duke University postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15626).
+
 ### 12/16
 
 University of Pittsburgh postdoctoral fellowship deadline.
@@ -1042,6 +1049,18 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15325).~~
 
 University of Nebraska-Lincoln postdoc position deadline.
 Please see [here](https://labs.inspirehep.net/jobs/1765335).
+
+### 12/16
+
+University of Pennsylvania postdoc position deadline (ASAP).
+Please see [here](https://academicjobsonline.org/ajo/jobs/15729).
+
+### 12/16
+
+Argonne National Laboratory postdoc position without deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15663).
+
+**Possibly complicated application with AJO**
 
 ### 12/17
 
@@ -1160,9 +1179,9 @@ _Bad for Haruna_
 ### 1/5
 
 UC Irvine postdoc position deadline.
-Please see [here](https://labs.inspirehep.net/jobs/1767919).
+Please see [here](https://academicjobsonline.org/ajo/jobs/15638) and [here](https://labs.inspirehep.net/jobs/1767919).
 
-**Seems AJO**
+**Jonathan Feng**
 
 ### 1/6
 
