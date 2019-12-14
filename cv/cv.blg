@@ -1,47 +1,47 @@
-This is upBibTeX, Version 0.99d-j0.33-u1.24 (utf8.uptex) (TeX Live 2019)
-Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+This is upBibTeX, Version 0.99d-j0.33-u1.20 (utf8.uptex) (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: cv.aux
 The style file: ../JHEP.bst
 Database file #1: ../pl.bib
 You've used 13 entries,
             2217 wiz_defined-function locations,
-            637 strings with 6346 characters,
-and the built_in function-call counts, 4104 in all, are:
-= -- 410
+            640 strings with 6360 characters,
+and the built_in function-call counts, 4316 in all, are:
+= -- 437
 > -- 194
 < -- 0
 + -- 55
 - -- 42
-* -- 368
-:= -- 574
+* -- 384
+:= -- 595
 add.period$ -- 13
 call.type$ -- 13
 change.case$ -- 13
 chr.to.int$ -- 0
 cite$ -- 13
-duplicate$ -- 204
-empty$ -- 336
+duplicate$ -- 221
+empty$ -- 355
 format.name$ -- 42
-if$ -- 1069
+if$ -- 1131
 int.to.chr$ -- 0
 int.to.str$ -- 13
-missing$ -- 49
+missing$ -- 50
 newline$ -- 43
 num.names$ -- 13
-pop$ -- 20
+pop$ -- 21
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 171
+skip$ -- 189
 stack$ -- 0
-substring$ -- 162
-swap$ -- 112
+substring$ -- 174
+swap$ -- 125
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 26
+while$ -- 27
 width$ -- 15
-write$ -- 133
+write$ -- 137
 is.kanji.str$ -- 0
