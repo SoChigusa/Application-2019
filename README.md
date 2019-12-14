@@ -944,6 +944,8 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15207).
 University of Heidelberg postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15204).
 
+**Applied**
+
 ### 12/15
 
 ~~IBS in Korea postdoc position deadline.
@@ -956,10 +958,14 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15203).~~
 Pennsylvania State University postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15358).
 
+**Applied**
+
 ### 12/15
 
 University of Cincinnati postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15345).
+
+**Applied**
 
 ### 12/15
 
@@ -970,18 +976,17 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15338).~~
 
 ### 12/15
 
-University of Southern California postdoc position deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/15334).
-
-### 12/15
-
 University of Florence postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15285).
 
+**Applied**
+
 ### 12/15
 
-University of Milano Bicocca postdoc position deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/15263).
+~~University of Milano Bicocca postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15263).~~
+
+**Gave up higher loop calculation**
 
 ### 12/15
 
@@ -990,24 +995,28 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15494).
 
 _Giuseppe Degrassi_
 
-### 12/15
-
-University of Trino postdoc position deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/15500).
-
-_difficult QCD staff?_
+**Applied**
 
 ### 12/15
 
-Chinese Academy of Science postdoc position deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/15388).
+~~University of Trino postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15500).~~
 
-_Seems cheep salary?_
+**Gave up higher loop calculation**
+
+### 12/15
+
+~~Chinese Academy of Science postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15388).~~
+
+**Gave up Chinese positions**
 
 ### 12/15
 
 INFN and SISSA postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15434).
+
+**Applied**
 
 ### 12/15
 
@@ -1021,17 +1030,21 @@ Please see [here](https://labs.inspirehep.net/jobs/1760337).~~
 Bonn University postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15602).
 
+**Applied**
+
 ### 12/15
 
-Basel University postdoc position deadline.
-Please see [here](https://labs.inspirehep.net/jobs/1760006).
+~~Basel University postdoc position deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1760006).~~
 
-**NON-AJO**
+**Gave up by NON-AJO**
 
 ### 12/15
 
 Duke University postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15626).
+
+**Applied**
 
 ### 12/16
 
