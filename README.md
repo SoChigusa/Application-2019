@@ -1048,11 +1048,6 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15626).
 
 ### 12/16
 
-University of Pittsburgh postdoctoral fellowship deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/15130).
-
-### 12/16
-
 ~~Ecole Polytechnique postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15325).~~
 
@@ -1060,20 +1055,24 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15325).~~
 
 ### 12/16
 
-University of Nebraska-Lincoln postdoc position deadline.
-Please see [here](https://labs.inspirehep.net/jobs/1765335).
+~~University of Nebraska-Lincoln postdoc position deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1765335).~~
+
+**Gave up by non-famous, one-year renewable position**
 
 ### 12/16
 
 University of Pennsylvania postdoc position deadline (ASAP).
 Please see [here](https://academicjobsonline.org/ajo/jobs/15729).
 
+**Applied**
+
 ### 12/16
 
-Argonne National Laboratory postdoc position without deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/15663).
+~~Argonne National Laboratory postdoc position without deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15663).~~
 
-**Possibly complicated application with AJO**
+**Gave up by possibly complicated application with AJO**
 
 ### 12/17
 
@@ -1084,13 +1083,17 @@ Please see [here](https://academicjobsonline.org/ajo/edelivery/3764).~~
 
 ### 12/20
 
-Academia Sinica in Taipei postdoc deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/15078).
+~~Academia Sinica in Taipei postdoc deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15078).~~
+
+**Gave up Taiwanese positions**
 
 ### 12/20
 
 Northwestern University postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15005).
+
+**Applied**
 
 ### 12/21
 
@@ -1106,10 +1109,14 @@ Good for Haruna
 SISSA postdoc position deadline.
 Please see [here](https://academicjobsonline.org/ajo/jobs/15589).
 
+**Applied**
+
 ### 12/22
 
-Swansea University postdoc position deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/15582).
+~~Swansea University postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15582).~~
+
+**Gave up by unknown, too formal staff**
 
 ### 12/23
 
