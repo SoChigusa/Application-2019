@@ -12,6 +12,17 @@
 * ~~Jobs listed in JREC-IN are checked (2019/10/15).~~  No more checking after getting JSPS PD
 * Jobs listed in [inspire](https://labs.inspirehep.net/jobs?field_of_interest=hep-ph&rank=POSTDOC&page=1) are checked (2019/12/8).
 
+## Results of offers
+
+### 12/24
+
+First offer from DESY.
+I have replied to the e-mail and submitted a rumor to the Rumor Mill.
+
+### 12/25
+
+Second e-mail of a possible offer of the University of Chicago and Argonne National Laboratory joint position.
+
 ## Schedule and notes ##
 
 ### May-June
@@ -1120,37 +1131,45 @@ Please see [here](https://academicjobsonline.org/ajo/jobs/15582).~~
 
 ### 12/23
 
-University of Melbourne postdoc position deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/15567).
+~~University of Melbourne postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15567).~~
+
+**Gave up by other offers**
 
 ### 12/24
 
-Universidade Estadual de Campinas at Sao Paulo postdoc position deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/15544).
+~~Universidade Estadual de Campinas at Sao Paulo postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15544).~~
+
+**Gave up by other offers**
 
 ### 12/26
 
-Durham postdoc position deadline.
-Please see [here](https://labs.inspirehep.net/jobs/1763251).
+~~Durham postdoc position deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1763251).~~
 
-**NON-AJO**
-
-### 12/27
-
-University of Adelaide postdoc position deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/15612).
+**NON-AJO, gave up by other offers**
 
 ### 12/27
 
-Warsaw University postdoc position deadline.
-Please see [here](https://labs.inspirehep.net/jobs/1767012).
+~~University of Adelaide postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15612).~~
 
-**NON-AJO**
+**Gave up by other offers**
+
+### 12/27
+
+~~Warsaw University postdoc position deadline.
+Please see [here](https://labs.inspirehep.net/jobs/1767012).~~
+
+**NON-AJO, gave up by other offers**
 
 ### 12/28
 
-New South Wales University postdoc position deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/15665).
+~~New South Wales University postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15665).~~
+
+**Gave up by other offers**
 
 ### 12/31
 
@@ -1198,20 +1217,24 @@ _Bad for Haruna_
 
 ### 1/5
 
-UC Irvine postdoc position deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/15638) and [here](https://labs.inspirehep.net/jobs/1767919).
+~~UC Irvine postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15638) and [here](https://labs.inspirehep.net/jobs/1767919).~~
 
-**Jonathan Feng**
+**Jonathan Feng, gave up by other offers**
 
 ### 1/6
 
-Pennsylvania State University postdoc deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/15019).
+~~Pennsylvania State University postdoc deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15019).~~
+
+**Gave up by other offers**
 
 ### 1/8
 
-Chinese Academy of Science postdoc position deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/15622).
+~~Chinese Academy of Science postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15622).~~
+
+**Gave up by other offers**
 
 ### 1/10
 
@@ -1222,24 +1245,30 @@ Please see [here](https://labs.inspirehep.net/jobs/1754465).~~
 
 ### 1/15
 
-Chinese Academy of Sciences postdoc position deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/15368).
+~~Chinese Academy of Sciences postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15368).~~
+
+**Gave up by other offers**
 
 ### 1/31
 
-Tsinghua University postdoc position deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/15621).
+~~Tsinghua University postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15621).~~
+
+**Gave up by other offers**
 
 ### 2/1
 
-Moscow state university postdoc position deadline.
-Please see [here](https://academicjobsonline.org/ajo/jobs/15605).
+~~Moscow state university postdoc position deadline.
+Please see [here](https://academicjobsonline.org/ajo/jobs/15605).~~
 
 _Too formal?_
 
+**Gave up by other offers**
+
 ### 3/2
 
-CERN Senior Research Fellowship (with a limited number positions for non-member states) deadline.
-Please see [here](https://jobs.smartrecruiters.com/CERN/743999695853937-senior-research-fellowship-programme-theoretical-experimental-physics?trid=3320305b-0f5f-4245-a3a4-e2e46bc46590).
+~~CERN Senior Research Fellowship (with a limited number positions for non-member states) deadline.
+Please see [here](https://jobs.smartrecruiters.com/CERN/743999695853937-senior-research-fellowship-programme-theoretical-experimental-physics?trid=3320305b-0f5f-4245-a3a4-e2e46bc46590).~~
 
-**NON-AJO**
+**NON-AJO, Gave up by other offers**
