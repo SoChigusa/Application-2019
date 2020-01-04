@@ -23,6 +23,10 @@ I have replied to the e-mail and submitted a rumor to the Rumor Mill.
 
 Second e-mail of a possible offer of the University of Chicago and Argonne National Laboratory joint position.
 
+### 1/4
+
+An e-mail of an offer of the postdoc position at Berkeley.
+
 ## Schedule and notes ##
 
 ### May-June
